@@ -1,0 +1,11 @@
+---
+draft: true
+description:
+socialDescription:
+title: Richard W. Hamming
+tags:
+  - person/professor
+  - person/author
+date: 2025-05-18
+modified: 2025-08-21
+---

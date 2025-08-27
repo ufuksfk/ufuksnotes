@@ -1,0 +1,12 @@
+---
+description:
+socialDescription:
+title: Misinformation vs disinformation
+draft: true
+tags:
+  - note/versus
+link:
+date: 2025-03-05
+modified: 2025-08-21
+---
+[[Misinformation]] vs [[Disinformation]]

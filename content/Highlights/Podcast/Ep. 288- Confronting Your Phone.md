@@ -1,0 +1,47 @@
+---
+draft: true
+description:
+socialDescription:
+title: Ep. 288- Confronting Your Phone
+tags:
+  - highlight/podcasts
+date: 2025-03-14
+modified: 2025-08-21
+---
+
+publisher: [[Deep Questions with Cal Newport]]
+published_date: 2024-02-19
+...
+
+## Highlights
+* [[2025-03#13]] 13:00  Six different things that you should probably engage with. All of them to some degree in your life in preparation to change in your relationship with your phone
+	* One is going to be reading. You should read a lot more. This could be a mix of things that are just really fun, magazine articles or books that are really fun to read as well as things that are smarter
+	*  Second, higher quality video media, prestige tv, movies, documentaries.
+	* Number three, skill based hobby. Something you're into that requires a skill you can get better at. Your results get better as that skill improves. This creates a feedback loop that our mind really likes that can be more compelling to our mind than low quality distraction.
+	* Four, have some sort of exercise based hobby, some sort of physical fitness where you're trying to build a streak, finish, hit some marks in terms of where you want to get in your health, some sort of serious engagement with the physical, among other things
+	* Number five, get involved with communities that meet regularly, even if this is just friends that you have a standing
+	*  And six, seek out adventures. I want to go travel to see this sports team play at the away stadium
+* If you have these six things in your life, reading, high quality tv, movies, skilled based hobby, exercise based hobby, regular meeting communities and adventures.
+
+* [[2025-03#12]] 18:42  This is how you reconfigure a digital life that operates on your terms, supports what you value, and yet minimizes the unnecessary negative side effects.
+
+* [[2025-03#12]] 18:47  [[Amusing ourselves to death]] by [[Neil Postman]] the late Neil Postman is often cited by people who do techno criticism.
+* [[2025-03#12]] 18:49  I'm going to point you towards a recent article I wrote for the New Yorker. This would have come out in December. I don't remember the exact title of the article, but I can tell you it is about Neil Postman not amusing ourselves to death, but instead his subsequent book technopoly. So I argue in this article that technopoly is probably the best full summary of Neil Postman's philosophy regarding technology. And in that article I get into the impact of Postman's technopoly theory on my own thinking about technology and technocraticism, and it did have a big impact. So you're correct to note that postman is related to my work. I draw probably more heavily from technopoly than amusing ourselves to death. So check out that New Yorker piece to get a better sense of that. I like amusing ourselves to death. It definitely is a standalone book worth reading. What people often get wrong about it is they think it's just a book about tv being bad.
+* [[2025-03#13]] 13:03  It was written in the [[1980s]], the amusing ourselves to death. It's talking about doing so with tv and the way that [[Television]] has evolved. But there is a deeper technocritical argument that's proven very influential in that book. What Postman argues is technologies in general and media technologies more specifically can affect the way cultures actually think.
+* [[2025-03#12]] 18:49  this. So he talks in the book, famously, about how during the time of [[Abraham Lincoln]], the media culture was built on newspapers. And newspapers would have really long articles in them, right? You'd have thousands of words, articles and speech transcriptions. The American America at that time was actually highly literate.
+* [[2025-03#13]] 07:27  So you're plenty happy to spend lots of time reading all these details in the newspaper. He called it alexographic media culture. He said, in alexiographic media culture, we were very comfortable with consuming information in sort of long, discursive discussions.
+
+* [[2025-03#13]] 12:56  Is it possible to pursue a high quality leisure activity on a day you completed deep work professionally? Yeah, for the most part. It's not a problem that four hour daily limit.
+* [[2025-03#13]] 12:56  4 hours broken into two two hour chunks was about, on average, the maximum a professional player could practice. Because when professional players practice, it's incredibly intense. They don't just play stuff, they know how to play. They're instead systematically and deliberately trying to push their skills to the next level. Pros can do that for 4 hours, but not much longer.
+* [[2025-03#13]] 12:58  We see that in other places as well. There's a type of software development called extreme programming in which you sit two people at the same monitor. It is very intense programming where the one person's looking over your shoulder and you're trying to build the best code with someone watching you do it. This is very intense because you have to have like a violin player practicing complete, unbroken concentration. I write about this a little bit in my book, a world without email. So what they found with extreme programming is that it's super productive. You would think, hey, we're doing two people per screen. We're going to get half as much done. But the code is so good. You get quality code so fast, it's incredibly productive. But they also learned you can only do it for a certain number of hours a day. People completely burn out. You get like 04:00 in the afternoon. It's like everyone has to go home and take a nap. There is no notion of working late in an extreme programming environment because it's too exhausting
+* [[2025-03#13]] 12:59  High quality leisure typically doesn't trigger this unless your high quality leisure is intensely practicing your instrument. High quality leisure is not going to exhaust you in the same way as fully focused, deep work
+* [[2025-03#13]] 12:58  There's a cool book on this from the early [[20th century]], [[Arnold Bennett]]'s how to live on 24 hours a day. And one of his arguments is even if you're exhausted from your work, if you switch over to unrelated high quality leisure, your energy raises.
+
+* [[2025-03#13]] 12:59  **Next question is from Chris. How do you envision digital minimalists interacting with augmented reality. Once the technology has advanced sufficiently to replace all the screens in our lives, as you have predicted.**
+* [[2025-03#13]] 12:59  Well, first of all, I still think my prediction is not being discovered enough. Not necessarily from me, but I don't see enough other people talking about that prediction, in particular in their coverage of the new Apple Vision Pro. I don't know that everyone yet is still on the same page that I'm on. Which says the whole reason why [[Apple]] is investing in the Apple [[vision Pro]], the whole reason why they're doing this, is because once this technology is sufficiently advanced, you don't need to own separate screens. Once you can fit an Apple vision Pro into a pair of ray ban glasses, I don't need a phone and an [[iPad]] and a laptop and a TV and an office computer. I just need these glasses, which can put similar sized screens wherever I happen to be. So why buy all those things? That's a huge industry. The consumer electronics industry is huge. Apple's profit comes almost entirely from building physical screens and nice brushed metal boxes. If those all go away, Apple's in trouble. So they want to own the virtual screen future. And I'm still convinced that's where we're going to end up. If I want to make a phone call, I put a screen in front of me, projected by my glasses. If I want to watch tv, there's a screen put on the wall projected by my glasses.
+* [[2025-03#13]] 13:02  I think AR is going to completely up in the consumer electronics industry. Most of us will be engaging with a world augmented with digital elements just all day long. But it might not look as paradoxical as this, might seem that different than our current world today. We might not be able to reach out and grab the screen we're looking at, but I think it's still going to be a screen. There might be some exceptions, some games, et cetera, but some pop out stuff, but I don't even think so. Jesse, I see a lot of these demos of checking email and AR, the demo videos, they like to have it sort of your messages fly out, or like they're kind of in space and you're scrolling in space, and then over here you're writing and maybe
+[[Future predictions about usage of technology]]
+
+* [[2025-03#13]] 13:01  When people hear digital minimalism and they know that it has to do with having a more healthy relationship with your tools, they often change the second word in their head and say, yes. What we're talking about here is digital minimization. The goal of this philosophy is to use as little technology as possible to remove technology from your life. More removal is better than less. And from the perspective of digital minimization, you say, oh, I'm spending all this time on YouTube. That goes against minimization because I'm spending time on YouTube. And so maybe this philosophy doesn't hold. Minimalism, though, is different. Minimalism says, you figure out what's important to you in your life.
+* [[2025-03#13]] 17:19  They decide how they show it to people, they decide how the selling works. They can do what they want with that material. This is very different than having your own website, for example.
+

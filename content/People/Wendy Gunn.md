@@ -1,0 +1,15 @@
+---
+draft: true
+description:
+socialDescription:
+title: Wendy Gunn
+tags:
+  - person/professor
+date: 2025-07-10
+modified: 2025-08-21
+---
+https://www.linkedin.com/in/wendy-gunn-b045457a
+from [[Copenhagen]], [[Denmark]]
+
+Research interests: collaborative design and sustainability in health care; reuse, recycling and remanufacturing of medical devices; healthcare waste management; sustainable redesign of care pathways.  
+As a researcher, I have cross-disciplinary expertise in IT product design, design engineering, architecture and anthropology and significant experience of conducting multidisciplinary and interdisciplinary research as an integral member of collaborative design teams involving both private and public sectors. I have developed research insights into how collaborative design processes work in engineering design as well as how anthropology can play an important role in design, whether in healthcare settings or architecture. I have an international research profile in Design Anthropology and have played a leading role in this field including contributing towards building a research agenda for the emerging field. I have a demonstrated capacity to build research communities across different disciplines engaging a diversity of stakeholders from both the public and private sectors in the design, development, and implementation of emerging and existing technologies. Research projects I have been involved in have an emphasis on how technology design processes and anthropological practices can be brought together in a productive collaboration, for example in healthcare settings. I address key challenges in conducting interdisciplinary research with multidisciplinary design teams engaged with issues of sustainability in collaborative design processes and practices in engineering design. I have worked to define frameworks to move interdisciplinary research inquiry into collaborative design processes for example, the design of future indoor climate technologies; to integrate anthropological methods and frameworks for analysis within collaborative design processes and to generate tools for engagement to communicate results of research inquiry and collaborative design in a diversity of forms to multiple stakeholders. I am a contributor to the Health Care Without Harm (HCWH) plastics working group and the Low Carbon Clinical Trials Consortium directed by the UK Sustainable Healthcare Coalition (SHC). I am also a member of the GreenCare EU consortium focusing on augmenting the capacity of hospitals and healthcare to monitor, assess and improve their environmental performance and sustainability. Examples of MSc Sustainable Design Engineering thesis supervision: A Case Study on the Environmental and Economic Sustainability of Using Remanufactured Ultrasound Catheters.

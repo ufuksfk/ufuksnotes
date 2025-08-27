@@ -1,0 +1,19 @@
+---
+draft: true
+description:
+socialDescription:
+title: Media Consolidation
+tags:
+- highlight/articles
+date: 2025-03-05
+modified: 2025-08-21
+---
+author: [[Scott Galloway]]
+
+last highlighted date: [[2024-12#07]]
+
+## Highlights
+- The hottest product in tech is Bluesky, adding 1 million users a day since the election. CEO Jay Graber says the platform will never have ads, as ads are the road to “enshittification.” OK then. Ad-supported media, as a whole, is one of the least volatile businesses over the last century — accounting for [1.5% of GDP](https://link.mail.beehiiv.com/ss/c/u001.W4bhUzQJNV3A6mIcKUqAN2ccyf_IZ-GFbZfD9rttav_04tWRAISpJBcW71u2KfYy622c1u3dPMnzOVyiw62hmHbMP8D_5KVjfc8rDxTRnOJ0NAM4J3X5SDDglPVt-H54befhf-noT1zjknWDrJazZRQHruOWCiY_L6mPTLRvNwcBdA-p5JN0pDTMFRodfoNg2fYMOfcDLGddVOg7B1N05T1joW2iZv77uZVGCMIYjAlhKHCXFDT1bYnatYLa-5vW_ooQYcpNRoGNOGKAPjYDA42q--tJyPRAXBUtZCgwD3ibuXi6noRqJqhw9fbiA4x-AynT8GAr6rGjkMe1qlg50A/4c2/fKUH_DvDRBaQ49aejJFbwg/h4/h001.6aQ9sDlFObpylyakSIPGVp6cMdo8yarMeOPLBxnI7QA), and rarely straying from that number.
+- Amazon registers [37% of e-commerce](https://link.mail.beehiiv.com/ss/c/u001.W4bhUzQJNV3A6mIcKUqANxlUob05MGcMVWYt-Ocz4UVflOKICGYyIW6t5tfvpQW7OWVnvjTr-bdLaiIAPqATOCOTRL9a1U7hKbkTcOBudaFGldEzI9TLOV6Q1oGi0rhoihuAxfsBze0MWOEZZJLWHjl8MBJ8fCLm5p-wFpz7gkB0RFEteIqKepKz_Z9qlPF13l2Wh7mEfT_zp_NTgfXgiGKvfi1-qYNsbWg150AbrjxMjrynxp-BhCSqrCqtHZnEYYnq0TqBZ3j_-sy9kPKA46JECtuv3A0XmgoPJ4IucDKCUAzuyqaupsn-9odn-FkEQZOYtNsLU6ewPrj2p0fLmw/4c2/fKUH_DvDRBaQ49aejJFbwg/h8/h001.jqhEYtG_eGgGOBHimkE49USFRREFpGF0f_JvFrCIegc) in the U.S., while its nine closest competitors (Walmart, Apple, Target, etc.) account for 23% combined. Nearly [two-thirds](https://link.mail.beehiiv.com/ss/c/u001.W4bhUzQJNV3A6mIcKUqANwg-Fut3PBmDKaQE4ghHPhc5uRCzkSY6APfqIxHMTmetPrHscIRt7x8jlYWbApkmvxsatdnUYQ-GCNO-YGei8sQRKmF1eswcpXXDi2xcOOgYYq_oV26BhcT7GFX-38tX11HczMafmyYkQyBp8IWq_4SGeCx1-aKeWE6EkPCjJpnwJ7vj-R03mFVnVJXJFF6pt0c7UDfaicoalzZHXEzP6tQUhewbYYHk34Wtst7xjy9nZn6I45I65NEaylLrI8cJ6CjNIRmbe7X8gCBS0D7fC50QSxxRJlNpjDcKu-IwdbRY/4c2/fKUH_DvDRBaQ49aejJFbwg/h9/h001.hv1ceTmV3NWwr3euXNb7b9xoXIIPvs7oiYfkVvKBHzg) of the world’s social media ads are sequestered to Meta. Since 2014, [90+% of internet searches](https://link.mail.beehiiv.com/ss/c/u001.W4bhUzQJNV3A6mIcKUqAN6hZ0rYOQEZiHnrXuPeG9bOGBy3rBlhglKrm_VcQgh7U_3y_jI-pkeciRo61M4rNQtjLrNfX2r8ZmUqPOPyWLNZICy-jXua9uT64ywDD2biOSMEbk-Av3QjuwBKm6ZbrTY87RwbcXMyFX-CNSXOcgkhJl1A9sBhrHHLdO_5_xWMvRtXzR_57TYME6IaFD1PAALcgJAIvcv6Ziaw0lpa_MhHRVs9kGTOEpy-LtasLXi-KEoVQUNZAYELGpku3MLXcvu0ojVsO0r9AoqgYFN4NOW8/4c2/fKUH_DvDRBaQ49aejJFbwg/h10/h001.eiQQCZfI_T54VBbmDDDc2B8yOKny19NryaGjWjqLSX8) are done on Google; the second-most-popular search engine, Microsoft’s Bing, commands less than 4% of the global search market.
+- In my industry, podcasting, the concentration is extreme even by digital standards. Of the 600k podcasts that produce content each week, the top 10 capture half the revenue. Put another way, to build a business in podcasting that pays people well and retains talent with high opportunity cost(s), you likely need to be in the top 0.1% by listenership. As a member of UCLA’s crew team, I was [3.5x more likely to be an Olympian](https://link.mail.beehiiv.com/ss/c/u001.W4bhUzQJNV3A6mIcKUqAN5u16bYdgPKa0-tEz2dkkq_Dgng4zP7_MxQLkUC2Ud4PpiNZ08SuPKTJW7yMd4P7Q_5n2yPWzmyMQg2K2jM23K028C2RykZ_XhlyF7woNwqABVVOtg9eUwqyWzYyI3V4f0Dwvb8AMFPALEbZvGX_pwu6SjH6pdIysLxmUqcVv5couIPhCU88jKaW9ogOUvgJNdpe5e9ZJ33I2a8AXicH4cTNTiYIRYx2QijGN5ePHTGAeDuV_u5Yl9w0D0tzgAMCEA/4c2/fKUH_DvDRBaQ49aejJFbwg/h12/h001.GYC8QJFcYik3_-0vAlHjKutCRYSa3wlS8ngEee9v-Ig) than a successful podcast host.
+- ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfuQNjVcyRwf64kMEizSxooppmzyyzxS32EajvMJKOtPJukvgVf59iHSwMwP0B0uOtz5YViaekF0owtVvDhfbiKWJrUTeM6VteYRK-ycvVwD6cp5jYMS9yy2M0Ypmwlh8bET_pW?key=BMGEeJhwmRQGYd43ayWnPot1)

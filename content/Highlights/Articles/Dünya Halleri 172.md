@@ -1,0 +1,25 @@
+---
+draft: true
+description:
+socialDescription:
+title: Dünya Halleri 172
+tags: []
+date: 2025-03-05
+modified: 2025-08-21
+---
+author: [[M. Serdar Kuzuloglu]]
+url: https://bulten.mserdark.com/p/dunya-halleri-172
+
+last highlighted date: [[2024-11#15]]
+
+## Highlights
+- Suudi Arabistan’da düzenlenen “Geleceğin Yatırımı İnisiyatifi” adlı etkinlikte konuşan Google’ın eski CEO’su Eric Schmidt, ABD ordusunun savaşta **artık bir şey ifade etmeyen tankları bir kenara bırakıp, yapay zeka destekli dronlara ağırlık vermesi gerektiğini** [savundu](https://www.theregister.com/2024/10/30/google_ceo_tank_ai_drones/). Schmidt’in iddiasını desteklemek için kullandığı örnek ise Ukrayna savunmasının 5 bin dolarlık dronlar ile 24 ay içinde Rusya’nın her biri 5 milyon dolarlık 3 bin tankını etkisiz hale [getirmesi](https://www.iiss.org/online-analysis/military-balance/2024/05/tanks-take-a-sharp-turn-to-remain-relevant/) oldu.
+- İklim krizi yüzünden her yıl 25 santimetre suya batan Endonezya, başkentini Jakarta’dan Nusantara adıyla kuracağı yeni bir şehre taşıma kararı almıştı. Geçtiğimiz ay kapılarını açan yeni başkent hem ülkenin hem de bölgenin sürdürülebilir kaynaklara dayalı teknoloji merkezi olmayı [hedefliyor](https://www.theregister.com/2024/11/06/indonesias_new_capital_nusantara/).
+- Bir diğer Apple gelişmesi bence sektör adına çok önemli bir ilk oldu. Şirket, yatırımcılarına yönelik [raporunda](https://www.sec.gov/Archives/edgar/data/320193/000032019324000123/aapl-20240928.htm) “*Bizden iPhone kadar karlı ve kitlesel bir **yeni** ürün beklemeyin. Bu hiçbir zaman olmayabilir.*” şeklindeki [uyarıyla](https://archive.ph/v6EF0#selection-7598.0-7598.1) *iştahlı* beklentileri sakinleştirmeye çalıştı. Açıklamayı Apple’ın değişmeye başlayan iş modeline yönelik bir *kılıf* olarak değerlendirenler de var. Financial Times konuyu güzelce [derlemiş](https://archive.ph/RamqY).
+- İşi bir adım öteye taşıyan Avustralya, **16 yaşından küçüklere sosyal medyayı tamamen yasaklayacak bir düzenleme** üstünde [çalışıyor](https://www.bbc.com/news/articles/c4gzd62g1r3o).
+- Uluslararası ilişkilerde teknolojinin rolüne yönelik bir haber: Yabancı dijital hizmetlerin vergi dilimini yükselten İtalya Ekonomi Bakanı Giancarlo Giorgetti, ABD’den gelen *tehditkar* uyarının ardından yerel şirketlerin vergilerini aynı oranda [artırmak zorunda kaldı](https://www.reuters.com/technology/italy-change-web-tax-bid-overcome-us-objections-2024-11-07/).
+- Avrupa Komisyonu, kıtanın önde gelen uzay şirketleriyle 290 uyduyu kapsayacak bir internet erişim ağı oluşturma kararı [aldı](https://defence-industry-space.ec.europa.eu/iris2-european-commission-awards-concession-contract-spacerise-consortium-2024-10-31_en). 10 milyar euro bütçeli proje, ABD**, Rusya ve Çin’in emsal ağlarına karşı bağımsız bir seçenek** oluşturma amacı [taşıyor](https://arstechnica.com/space/2024/10/finally-a-sign-of-life-for-europes-sovereign-satellite-internet-constellation/#gsc.tab=0).
+- **Ek bilgi:** Tayvanlı TSMC, Çin için gelişmiş yapay zeka çip üretimini **durdurduğunu** [açıkladı](https://archive.ph/5PJ29).
+- ABD / San Diego ve Chicago üniversitelerinin ortak çalışmasıyla geliştirilen yara bandı, **antibiyotiğe dirençli bakterileri düşük seviyeli elektrik akımıyla etkisiz hale getirmeyi** [başardı](https://www.cell.com/device/fulltext/S2666-9986(24)00542-8#fig6). 18 saat boyunca, her 10 dakikada bir, 10 saniye süreyle 1,5 volt elektrik akımı uygulayan bant bu sayede **bakterilerin yüzde 99’unu [engelleyebiliyor](https://chemistry.uchicago.edu/news/innovative-bioelectronic-device-offers-new-hope-in-the-fight-against-bacterial-infections)**.
+- [[Japan]] / [[Kyoto University]]’nde bir grup, **uzayda ağaç temelli materyaller kullanmak** adına senelerdir araştırmalar yapıyor. Bu çabanın ayaklarından biri de “[LignoSat](https://en.wikipedia.org/wiki/LignoSat)“ adlı ***tahtadan*** **mamul uydu**. Grup bu hafta uzaya ilk örneği başarıyla [fırlattı](https://www.dw.com/en/worlds-first-wooden-satellite-launched-into-space/a-70691359). “*Yalancı Servi*” olarak da bilinen “[hinoki](https://tsukiita.jp/en/publics/index/93/detail=1/b_id=100000007/r_id=1/)” ağacından üretilen uydu, yapıştırıcı ya da vida kullanmaksızın birbirine geçen bir yapıya sahip. Ekibin en büyük hayali, **50 yıl içinde Ay ve Mars’a dikeceği ağaçlarla sürdürülebilir bir ekosistem yaratmak**. (Uzayda çürümeye sebep olan *nem* ve yanmaya sebep olan *oksijen* olmadığından ağacın işlevi artıyor.)
+- Çin / Zhejiang Üniversitesi’nden bir araştırma grubu, **nefesimizden akciğer kanserini tespit edebilmenin** yöntemini [buldu](https://www.acs.org/pressroom/presspacs/2024/november/detecting-evidence-of-lung-cancer-in-exhaled-breath.html). [Nefeste](https://en.wikipedia.org/wiki/Isoprene#:~:text=Isoprene%20is%20the%20most%20abundant,dolphins%20do%20not%20exhale%20isoprene.) kolayca ölçülebilen “[izopren](https://tr.wikipedia.org/wiki/%C4%B0zopren)” adlı hidrokarbonun kanser durumundaki düşüşü bu tekniğin temelini [oluşturuyor](https://www.genengnews.com/topics/cancer/evidence-of-lung-cancer-detected-in-breath-using-ultrasensitive-nanoflake-nanosensors/).

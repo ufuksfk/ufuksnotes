@@ -1,0 +1,29 @@
+---
+draft: true
+description:
+socialDescription:
+title: Dünya Halleri 205
+tags:
+  - highlight/articles
+date: 2025-08-05
+modified: 2025-08-21
+---
+author: [[M. Serdar Kuzuloglu]]
+url: https://bulten.mserdark.com/p/dunya-halleri-205
+last highlighted date: [[2025-W26#29]]
+published date: [[2025]]
+
+## Highlights
+- [[YouTube]], Google’dakine benzeyen **YZ destekli arama işlevini** test etmeye [başladı](https://blog.youtube/news-and-events/new-youtube-ai-tools-summer-2025/). Premium kullanıcılar [şu sayfadan](http://youtube.com/New) etkinleştirebilir.
+- [[USA]] Meclisi veri güvenliği gerekçesiyle milletvekillerinin cihazlarına hızlı mesaj uygulaması [[WhatsApp]] yüklemesini yasakladı. Gerekçe olarak WhatsApp’in kullanıcı verilerinin işlenmesine yönelik şeffaf olmaması ve yazışmaları kriptosuz şekilde yedeklemesi [gösterildi](https://www.theguardian.com/technology/2025/jun/23/whatsapp-ban-house-representatives). Vekillere Teams, [[Signal]], iMessage ve Facetime gibi alternatifleri kullanması tavsiye edildi.
+- [[China]] kökenli YZ hizmeti **[[DeepSeek]]**, son derece düşük maliyetli eğitim süreci, yüksek başarı oranı ve açık kaynaklı yapısıyla sektörün dengelerini değiştirmişti. ABD yönetimi bu hafta **DeepSeek’i Çin Ordusu’na destek olmakla, kullanıcı bilgilerini Çin istihbarat teşkilatıyla paylaşmakla** ve Asya ülkelerinde kurduğu **paravan şirketler üzerinden ihracat yaptırımlarını delerek YZ çiplerine ulaşmakla** [itham etti](https://www.reuters.com/world/china/deepseek-aids-chinas-military-evaded-export-controls-us-official-says-2025-06-23/).
+- [[Meta]], veri merkezlerinde güneş ve rüzgar enerjisi kullanımını 791 megavat artıracak dört yeni anlaşma [imzaladı](https://www.reuters.com/sustainability/invenergy-supply-meta-with-additional-791-mw-data-center-operations-2025-06-26/).
+- Telif haklarını ihlal edildiği gerekçesiyle bir dizi medya devi ChatGPT’nin geliştiricisi [[OpenAI]] aleyhinde dava açtı. Ancak mahkeme hiç hesapta olmayan bir sonuca sahne oldu. Davaya bakan Yargıç Ona Wang, bu tür iddiaların belgelenebilmesi için **OpenAI’ın tüm kullanıcı yazışmalarını kaydederek** ***süresiz*** **saklamasını** [şart koştu](https://arstechnica.com/tech-policy/2025/06/judge-rejects-claim-that-forcing-openai-to-keep-chatgpt-logs-is-mass-surveillance/).
+- Araştırma şirketi Gartner, **temsilci (agent) tabanlı YZ projelerinin yüzde 40’ının 2 yıl sonra yok olacağını** [iddia etti](https://www.gartner.com/en/newsroom/press-releases/2025-03-05-gartner-predicts-agentic-ai-will-autonomously-resolve-80-percent-of-common-customer-service-issues-without-human-intervention-by-20290). Aynı raporda 2029’a dek müşteri hizmetleri süreçlerinin yüzde 80’inin temsilci YZ hizmetleriyle yürütülür hale geleceği de yer alıyor. [[History of AI]]
+- ABD / MIT Üniversitesi’nin “[[MIT Media Lab]]” departmanı, ChatGPT kullanımı üzerinde bir [çalışma](https://arxiv.org/pdf/2506.08872v1#page=141.78) yürüttü. Üç gruba ayrılan deneklerden ilkinden ChatGPT kullanarak, ikincisinden sadece arama motoru kullanarak, sonuncu takımdan ise *hiçbir araç kullanmadan* bir kompozisyon yazması istendi. Beyin dalgalarının ölçüldüğü deneyde **en az bilişsel faaliyet ChatGPT kullananlarda gözlemlendi**. Bu ekip sunduğu kompozisyonun **içeriğini hatırlamakta da zorlandı**. İlginç bir ayrıntı olarak, aynı grup ikinci turda ChatGPT kullanmadan kompozisyon yazması istendiğinde de diğerlerinden daha [başarısız oldu](https://www.euronews.com/next/2025/06/21/using-ai-bots-like-chatgptcould-be-causing-cognitive-decline-new-study-shows).
+- Avustralya Ulusal Bilim Kurumu “CSIRO” araştırmacıları, **elektrik kullanmadan hidrojen üreten güneş reaktörü** geliştirdi. Demir-çelik üretimi gibi yüksek enerjiye ihtiyaç duyan (ve en yüksek karbon salımına [sebep olan](https://worldsteel.org/climate-action/climate-change-and-the-production-of-iron-and-steel/)) sektörler için üretilen reaktör güneş ışınlarını yoğunlaştırarak kimyasal bir reaksiyon ile, hiç karbon salmadan hidrojen [üretiyor](https://www.csiro.au/en/news/All/Articles/2025/June/Beam-Down-Reactor).
+- **Ek bilgi:** Aynı mantığı kullanarak yeşil hidrojen üreten “**[Terraform Industries](https://terraformindustries.com/)**” adlı girişimi, enerji temalı [2024 tarihli yazımda](https://www.mserdark.com/gunesin-zapti-yakin/) aktarmıştım.
+- [[China]], sadece geçtiğimiz ay güneş enerji üretim kapasitesini **93 gigavat** artırarak [rekor kırdı](https://archive.ph/yhBjy). Bu miktar **ülkenin geçtiğimiz yılki toplam artırımına denk**.
+- [[Singapore]] / Nanyang Teknoloji Üniversitesi, bina cepheleri için “*terleme*” özelliğine sahip bir boya [üretti](https://www.science.org/doi/10.1126/science.adt3372). Yüksek nemli bölgelerde kullanılması hedeflenen alaşım hem güneş ışınlarını **yüzde 92** oranında yansıtarak hem de yapı içindeki nemin dışarı atılmasını sağlayarak **klimalar üzerindeki yükü yüzde 40 oranında [azaltıyor](https://www.sciencenews.org/article/this-paint-sweats-keep-your-house-cool)**.
+- [[NASA]], 1,4 milyar bütçeli Psyche adlı uzay aracıyla, **küresel finans sisteminin toplamının 70 bin katı değerli maden barındıran** bir göktaşına (2029 yılının Ağustos ayında) ulaşmayı hedefliyor. Bu projenin ayrıntılarını 2023 yılındaki bir yazımda [aktarmıştım](https://www.mserdark.com/dunya-ekonomisini-altust-edecek-maden/). Geçtiğimiz günlerde yakıt sorunu yaşayarak duran araç, NASA’nın bu haftaki [açıklamasına](https://science.nasa.gov/blogs/psyche/2025/06/20/nasas-psyche-spacecraft-resumes-full-time-propulsion/) göre yedek sisteme geçerek “**[16 Psyche](https://en.m.wikipedia.org/wiki/16_Psyche)**” adlı göktaşına doğru yolculuğuna kaldığı yerden devam ediyor.
+- [[Brazil]] / Viçosa Üniversitesi’nin [çalışmasında](https://www.sciencedirect.com/science/article/pii/S0022316624012392) kombuça çayının (düşük dozda) günlük tüketiminin bağırsak mikrobiyotasını olumlu yönde düzenleyerek **obeziteyi engellediği** belirlendi.

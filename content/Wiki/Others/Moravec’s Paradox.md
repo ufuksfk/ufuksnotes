@@ -1,0 +1,11 @@
+---
+draft: true
+description:
+socialDescription:
+title: Moravec’s Paradox
+tags:
+  - wiki
+date: 2025-03-13
+modified: 2025-08-21
+---
+https://en.wikipedia.org/wiki/Moravec%27s_paradox
