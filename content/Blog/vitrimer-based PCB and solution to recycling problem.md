@@ -6,15 +6,20 @@ title: vitrimer-based PCB and solution to recycling problem
 tags:
   - blog/recycling
 date: 2025-08-24
-modified: 2025-08-26
+modified: 2025-08-28
 ---
 We are hopefully all on the same page that e-waste is now a big problem. And it is growing problem of humanity.
 
 Or maybe not. I don't know. Personally, I like to keep my old stuffs as a memoir, I barely remember myself throwing electronics to garbage. Even If I do, it is probably not 8kg per year. Let's say in every 15 years I need to get rid of my white appliances.
+
 Refrigerator: ~100 kg
+
 Washing Machine: ~ 70 kg
+
 Dishing Machine: ~50 kg
+
 Oven: ~50 kg
+
 Microwave: ~15 kg
 
 285 kg / 15 years = 19 kg. Let's say average family is 3 people. 6 kg per person per year.
@@ -50,7 +55,7 @@ For the first couple of weeks, they focused on plastic as a case material, that 
 Source: https://www.wastetrade.com/sv/resources/recycling/e-waste-recycling-and-management/
 
 Our usual suspect is named FR-4.
-## What is FR-4
+# What is FR-4
 
 FR stands for flame retardant. FR-4 is popular because it has the right mix of electrical, thermal, and mechanical properties that make it a great “default” choice for electronics. In plain words, it has:
 * **low moisture absorption.** Meaning it won’t swell or get ruined by a bit of water.
@@ -65,7 +70,7 @@ Technically, FR-4 is just **glass fiber cloth soaked in epoxy resin and pressed 
 
 That can be later another blog post but here we should quickly put a side info: What makes plastics recyclable? It is a bit material science, but basically high school chemistry that everyone can basically understand. But I am skipping to describe it in detail to stay in context. You can actually jump to that side note from down below.
 
-## 2 types of plastics
+# 2 types of plastics
 There are mainly 2 types of plastics. 
 
 Most of the daily plastics we know - bottles, packaging, toys -  is **thermoplastics**. That means you can melt it down with heat and mold it again. Simple, right? Well, not that easy. Each time you melt and reform it, the plastic loses a bit of quality. Because of basic hight school chemistry. Even the “good ones” are usually not recyclable more than five or six times. And almost every recycling loop is a **downstream** step — the plastic comes back as something lower-grade. Think: not another shiny bottle, but maybe a structural material, a park bench, or filler for construction.
@@ -118,25 +123,18 @@ But thank you If you read it so far.
 [[(PCB) Printed Circuit Board]]
 [[United Nations]]
 ## Internal Notes
-[[Can we delegate e-waste seperation process of e-waste by educating public]]
+[[Can we delegate seperation process of e-waste by educating public]]
 [[Don't we have any other chemical methods instead of soldering components]]
 [[What makes plastic recyclable]]
 [[Numbers related to e-waste]]
-
 ## Internal organization links
 [[Microsoft Research]]
-# External Links
-
+# References
 https://arxiv.org/pdf/2308.12496 - their research article.
-
 https://vpcb.cs.washington.edu/ - To read about their story.
-
 https://www.eenewseurope.com/en/researchers-address-e-waste-with-recyclable-healable-circuit-boards/ - Further reading
-
 https://www.youtube.com/watch?v=BjMNgSB8ufs - The podcast they talked about it. And how I learned about it.
 [Spotify](https://open.spotify.com/episode/5R27LIPxAMMEF3HQWOvLSh) [Apple Podcast](https://podcasts.apple.com/il/podcast/collaborators-sustainable-electronics-with-jake-smith/id1318021537?i=1000661906954)
-
----
 
 [^1]: https://ewastemonitor.info/wp-content/uploads/2024/12/GEM_2024_EN_11_NOV-web.pdf
 

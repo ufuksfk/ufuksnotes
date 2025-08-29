@@ -6,7 +6,7 @@ title: Designing Electronics for Recycling in a Circular Economy
 tags:
   - highlight/course
 date: 2025-08-04
-modified: 2025-08-27
+modified: 2025-08-29
 ---
 Upon the completion of this e-course, you are able to:
 
@@ -50,7 +50,7 @@ Reuse, repair, refurbish, remanufacture, repurpose, recycle refuse rethink
 https://www.ellenmacarthurfoundation.org/circular-design-guide/overview
 
 
-In 2022, the world generated 62 billion kilograms of Waste Electrical and Electronic Equipment (WEEE, also known as e-waste). Europe generated 13 billion kg of e-waste and formally collected and recycled 42,8% of this waste stream. Since EEE is the world’s fastest-growing domestic waste stream, its negative impacts are expected to grow accordingly.
+In 2022, the world generated 62 billion kilograms of Waste Electrical and Electronic Equipment (WEEE, also known as e-waste). Europe generated 13 billion kg of e-waste and formally collected and recycled 42,8% of this waste stream. Since EEE is the world’s fastest-growing domestic waste stream, its negative impacts are expected to grow accordingly. [[e-waste]]
 
 https://www.youtube.com/watch?v=Czu3BC7SrFQ&t=2s
 [[IDEO]]

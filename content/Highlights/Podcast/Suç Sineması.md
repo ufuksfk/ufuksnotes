@@ -9,7 +9,7 @@ date: 2025-05-18
 modified: 2025-08-21
 ---
 
-publisher: [[Nereden Başlasam?]]
+publisher: [[Nereden Başlasam]]
 published_date: 2025-05-01
 ...
 

@@ -1,0 +1,10 @@
+---
+draft: true
+description:
+socialDescription:
+title:
+tags:
+  - company/textile
+date: 2025-08-21
+modified: 2025-08-28
+---

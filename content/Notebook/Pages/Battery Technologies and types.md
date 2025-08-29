@@ -1,12 +1,12 @@
 ---
-draft: true
+draft: false
 description:
 socialDescription:
 title: Battery Technologies and types
 tags:
   - note/blog
 date: 2025-03-11
-modified: 2025-08-21
+modified: 2025-08-29
 ---
 [[Battery System for Home Appliances]]
 [[Flow battery]]

@@ -8,5 +8,5 @@ tags:
 date: 2025-03-05
 modified: 2025-08-21
 ---
-A notes from audiobook of  [[Mutlu Olma Cesareti]] in Turkish language.
+A notes from audiobook of  [[The Courage to be Happy]] in Turkish language.
 

@@ -1,13 +1,15 @@
 ---
-draft: true
+draft: false
 description:
 socialDescription:
 title: Idea behind this mess
 tags:
   - note/personal
 date: 2025-03-15
-modified: 2025-08-21
+modified: 2025-08-28
 ---
+So, if you’re reading this on my website, what you see here is just a published slice of it. A pretty small percentage, actually. After a few failed attempts to publish my “second brain” in full, I decided to keep certain parts hidden. Especially the highlights — since they might look too much like content scraping or violation.
+
 First of all, I am a true podcast addict. I keep my podcast higlights at Highlights/Podcast folder. I am using [[Matter (reader app)]] as podcast listening app which makes me to highlight everything important.
 And I used [[Snipd]] before. To pay tribute to them, I was very happy to have Snipd as it was more than nothing era. But Matter is easier to use with it's web app and more simple.
 

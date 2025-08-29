@@ -6,6 +6,8 @@ title: Ellen Macarthur
 tags:
   - person/author
 date: 2025-08-04
-modified: 2025-08-21
+modified: 2025-08-29
 ---
-[[Ellen Macarthur Foundation]]
+https://en.wikipedia.org/wiki/Ellen_MacArthur
+
+English retired sailor and charity founder of [[Ellen Macarthur Foundation]]

@@ -7,8 +7,9 @@ tags:
   - highlight/book
 link:
 date: 2025-03-05
-modified: 2025-08-21
+modified: 2025-08-28
 ---
+[[Before Adam]]
 Kitap, evrim teorisinin ortaya atilmasindan belli bir sure sonra yaziliyor. Ruyalarinda atalarinin hatiralarini goren bir cocugun hikayesi. Bu atalari, henuz insanlasmamis ve o cagda 3 cesit insansi bulunuyor:
 
 - Agactan inmemis henuz vahsi maymunlara yakin agac insanlari

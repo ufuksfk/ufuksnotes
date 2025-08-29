@@ -4,8 +4,8 @@ description:
 socialDescription:
 title: Center for Humane Technology
 tags:
-  - organization
+  - organization/non-profit
 date: 2025-03-14
-modified: 2025-08-21
+modified: 2025-08-29
 ---
-[[Your Undivided Attention]]
+they are publishing [[Your Undivided Attention]], one of my favorite podcast channel.
