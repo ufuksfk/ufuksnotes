@@ -6,7 +6,7 @@ title: Jung 12 temel arketip testi
 tags:
   - note/personal
 date: 2025-07-26
-modified: 2025-08-21
+modified: 2025-09-03
 ---
 https://tr.eduolog.com/test/jungun-kisilik-arketipleri-testi/
 

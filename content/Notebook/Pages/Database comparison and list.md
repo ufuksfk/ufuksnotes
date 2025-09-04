@@ -2,7 +2,7 @@
 description:
 socialDescription:
 title: Database comparison and list
-draft: true
+draft: false
 tags:
   - note/list
   - note/software
@@ -10,7 +10,7 @@ tags:
   - note/database
 link:
 date: 2025-03-05
-modified: 2025-08-21
+modified: 2025-09-04
 ---
 - [ ] Search for #product/database 
 - [ ] https://www.youtube.com/watch?v=9mdadNspP_M #todo/youtube 

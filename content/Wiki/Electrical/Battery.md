@@ -6,9 +6,8 @@ title: Battery
 tags:
   - wiki/electrical
 date: 2025-08-04
-modified: 2025-08-29
+modified: 2025-09-01
 ---
-[[Battery Report 2024]]
 [[Battery Cell Chemistry]]
 
 # Highlights

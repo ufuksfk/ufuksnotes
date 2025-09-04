@@ -1,10 +1,10 @@
 ---
-draft: true
+draft: false
 description:
 socialDescription:
 title: Japan
 tags:
   - wiki/country
 date: 2025-03-05
-modified: 2025-08-21
+modified: 2025-09-04
 ---

@@ -6,13 +6,13 @@ title: -19 Rory Sutherland- The Psychology of Advertising
 tags:
 - highlight/podcasts
 date: 2025-03-07
-modified: 2025-08-21
+modified: 2025-09-04
 ---
 publisher: [[The Knowledge Project with Shane Parrish]]
 published_date: [[2017-05#30]]
 
 About [[Advertising]]
-
+[[Rory Sutherland]]
 ## Highlights
 * [[2023-12#05]] 15:22  I don't know which part of the brain that is. I'd love more research, and obviously you can understand there's a notion that says that actually the advertising industry is kind of cheating, that you add perceived value to something. It isn't really value. If you make people like something more without changing its real objective qualities, is that cheating or is it value creation. By changing the intangibles of how we think? I mean, if you take a very extreme case, purists in the tech industry kind of hated Steve Jobs because they'd look at Apple products and say, well, look, if you look at the objective measures of clock speed or processor power or whatever, they're actually less impressive than you'll get in this new LG Android phone or whatever. And therefore they kind of thought that Steve was a bit of a snake oil salesman. What Steve was doing was saying, actually, beyond a certain point, you hit the law of diminishing returns with all this clock speed, objective stuff. Actually, let's focus the market on something like the loveliness of the interface and the joy that results from using it, and we'll create psychological value rather than objective value. Now, if you're a Purist engineer, you regard that as a bit of a cop out.
 

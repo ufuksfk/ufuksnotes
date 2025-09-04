@@ -2,12 +2,12 @@
 description:
 socialDescription:
 title: List of book summary channels
-draft: true
+draft: false
 tags:
   - note/list
 link:
 date: 2025-03-05
-modified: 2025-08-21
+modified: 2025-09-04
 ---
 https://www.threads.net/@mindmapreads
 https://www.youtube.com/@BookSummary-d2n

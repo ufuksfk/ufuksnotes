@@ -2,14 +2,14 @@
 description:
 socialDescription:
 title: AC vs DC power transmission
-draft: true
+draft: false
 tags:
   - note/electrical
   - note/power
   - note/versus
 link:
 date: 2025-03-05
-modified: 2025-08-21
+modified: 2025-09-04
 ---
 Over shorter distances, AC is more cost-effective since the losses and system complexity associated with DC aren't as significant.
 

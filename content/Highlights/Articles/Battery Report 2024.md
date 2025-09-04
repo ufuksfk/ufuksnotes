@@ -6,10 +6,10 @@ title: Battery Report 2024
 tags:
   - highlight/articles
 date: 2025-03-12
-modified: 2025-08-29
+modified: 2025-09-01
 ---
 https://volta.foundation/battery-report-2024
-Battery report from [[Volta foundation]] [[2024]]
+[[Battery]] report from [[Volta foundation]] [[2024]]
 ...
 I read it [[2025-03#12]]
 [[Battery]]

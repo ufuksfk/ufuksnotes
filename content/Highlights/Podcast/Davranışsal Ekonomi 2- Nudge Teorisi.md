@@ -6,13 +6,13 @@ title: Davranışsal Ekonomi 2- Nudge Teorisi
 tags:
 - highlight/podcasts
 date: 2025-03-07
-modified: 2025-08-21
+modified: 2025-09-04
 ---
 publisher: [[Fularsız Entellik]]
 published_date: [[2023-10#13]]
 
 
-
+[[behavioral economy]]
 ## Highlights
 * [[2023-12#06]] 10:40  Para aynı para değil mi? Ekonomiye göre para aynı para da psikolojiye göre değil. Yemeğe mi harcanacak laptopa mı fark ediyor. Çalışarak mı kazanıldı, miras mı kaldı fark ediyor. Nereden geldiğine ve nereye harcanacağına göre aynı miktardaki paraya farklı değerler atıyoruz. Kafamızın içine enteresan bir muhasebeci var. İşte onun 1980'lerdeki keşfi sonradan bir Nobel ödülü kazandıracak kadar önemliydi.
 
@@ -40,7 +40,7 @@ published_date: [[2023-10#13]]
 
 * [[2023-12#06]] 10:54  Şimdi buraya kadar anlattığım her şey Richard Taylor'ın ekonomistler arasında neden tanındığını açıklıyor. Benim gibilerin bu ismi bilmelerinin sebebi ise 2008 basımı Nagy kitabı. Nagy hafifçe ittirmek veya usulca yönlendirmek demek. 2000'ler zaten bu işin kırılım noktası yani artık akademide sağlam zemine oturmuş davranışsal ekonomi, popüler kültüre geçiş yapıyor.
 
-* [[2023-12#06]] 10:54  Gerçi iknanın psikolojisi bölümünde bahsettiğim Robert Cialdini'nin Influence kitabı, en etkili davranışsal ekonomi kitapları listesinin demirbaşıdır, 1984'te yayınlanmasına rağmen. Ama diğer tüm demirbaşlar hep 2004 sonrası. Mesela seçenek sayısının arttıkça seçimlerin zorlaşmasını anlatan Paradox of Choice, efendim Malcolm Gladwell'in ikinci kitabı Blink, yahut sonradan bir podcast'e dönüşen Freakonomics, Dan Ariely'i meşhur eden Predictably Irrational, bunların hepsi birkaç sene içinde çıkıyorlar. Biraz daha ileri sarınca da birçoğunun devam kitabı yayınlanıyor ve tabii yaklaşık 40 sene gecikmeyle Kahneman'ın çalışmalarını, o Sistem 1, Sistem 2 modelini herkese tanıtan Thinking Fast and Slow çıkıyor.
+* [[2023-12#06]] 10:54  Gerçi iknanın psikolojisi bölümünde bahsettiğim Robert Cialdini'nin Influence kitabı, en etkili davranışsal ekonomi kitapları listesinin demirbaşıdır, 1984'te yayınlanmasına rağmen. Ama diğer tüm demirbaşlar hep 2004 sonrası. Mesela seçenek sayısının arttıkça seçimlerin zorlaşmasını anlatan Paradox of Choice, efendim [[Malcolm Gladwell]]'in ikinci kitabı Blink, yahut sonradan bir podcast'e dönüşen [[Freakonomics]], [[Dan Ariely]]'i meşhur eden Predictably Irrational, bunların hepsi birkaç sene içinde çıkıyorlar. Biraz daha ileri sarınca da birçoğunun devam kitabı yayınlanıyor ve tabii yaklaşık 40 sene gecikmeyle Kahneman'ın çalışmalarını, o Sistem 1, Sistem 2 modelini herkese tanıtan Thinking Fast and Slow çıkıyor.
 
 * [[2023-12#06]] 10:56  Pisuvardaki sinekti başlığı. O sineklerin bir yapıştırma olduğunu öğreneli yıllar oldu ama halen her gördüğümde aynı şevkle nişan oluyorum. Durduramıyorum kendimi. Amsterdam havaalanı tuvaletlerini temizleyenlerin bir buluşuymuş. Deliğin yakınına bir hedef koyunca dışarıya sıçratma %50 ile %80 oranında azalmış. Sinek de özellikle iyi bir hedef çünkü yeterince pis. Bir kelebek koysan mesela en öküz erkekler bile ona işemek istemiyorlar. Hamam böceği gibi bir şey olsa bu sefer insanlar tiksinecek. Sinek iyi. Pisuar sinekleri naç fikrini anlatmak için ideal örnek, özellikle de alternatifleri düşününce. Mesela otoriter biri, o tuvalete bekçi dikip, çişini dışarı taşıranı cezalandırmaya bakar. Klasik ekonomistlerin tuvaletinde ne olabilir? Giriş paralıdır, çişini sıçratmayana da çıkışta parası iade edilir. Bir teşvik yaratılmış olur, iade edilmeyen kısım da temizlikçiye gider. Davranışsal ekonomistlerin tuvaletindeyse, bariz parasal çıkarlara göre değil de psikolojik yatkınlıklara göre yönlendirme yapılıyor. Maksat herkesi aynı kalıba sokmadan ve çaktırmadan ortalama davranışı biraz oynatmak. Bu hem ucuz hem de özgürlüğe bir kısıtlama olarak algılanmıyor.
 

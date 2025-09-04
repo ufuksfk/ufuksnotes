@@ -14,7 +14,7 @@ published_date: [[2022-08#24]]
 About [[Bluetooth]]
 
 ## Highlights
-* [[2024-01#22]] 20:06  In addition to the costs of engineering and manufacturing efforts to convert to the new design, there’s also the cost and risk of [[(EMC) Electromagnetic Compatibility]] (Electro-magnetic Compliance) lab testing. A certified test lab will provide a quote for the testing and filings needed. A ballpark cost for this testing and filings will be roughly $20,000 for US ([[FCC]]) and Canada (ISED).
+* [[2024-01#22]] 20:06  In addition to the costs of engineering and manufacturing efforts to convert to the new design, there’s also the cost and risk of [[(EMC) Electromagnetic Compatibility]] (Electro-magnetic Compliance) lab testing. A certified test lab will provide a quote for the testing and filings needed. A ballpark cost for this testing and filings will be roughly $20,000 for US ([[(FCC) U.S. Federal Communications Commission]]) and Canada (ISED).
 
 * [[2024-01#22]] 20:07  A shipping quantity of about 10,000 units annually is roughly the threshold where going “chip-down” starts to make sense, and it’s a “no-brainer” at volumes of 25k or more.
 

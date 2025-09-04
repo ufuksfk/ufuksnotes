@@ -6,7 +6,7 @@ title: Stanley Kubrick Sineması Üzerine
 tags:
 - highlight/podcasts
 date: 2025-03-07
-modified: 2025-08-21
+modified: 2025-09-01
 ---
 publisher: [[Sinematris]]
 published_date: [[2024-01#18]]
@@ -28,7 +28,7 @@ published_date: [[2024-01#18]]
 
 * [[2024-01#19]] 21:31  Bu yaklaşımın ve türün adı Yeni Dalga Bilimkurgu'ydu. Yeni dalga bilimkurgu ne demekti? Şu demekti. O zamana kadar bilimkurgu, hiçbir şekilde gerçeklik barındırmak zorunda olmayan, fantezi dediğimiz türle yakınlıklar içeren, hiçbir bilimsel, felsefi ve gerçekçi gelecek öngörüsünde bulunma yükümlülüğü taşımayan bir türdü. İşte Yeni Dalga Bilimkurgu'da bilimkurgu ciddileşti, felsefileşti ve bilimselleşti. İlk verilen isim aslında Yeni Dalga Bilimkurgu değildi, sonradan bu isim verildi. İlk verilen isim ...bilimsel bilimkurguydu.
 
-* [[2024-01#19]] 21:31  ..."Gelecek nasıl olabilir?" kaygısıyla ve çıkış noktasıyla... ...bilimkurgu eserleri yazmaya başladılar. Kimdi bu yazarlar? Hemen size hatırlatmaya çalışayım. Arthur C. Clarke, Robert A. Heinlein, Isaac Asimov... Philip K. Dick, Ursula K. Le Guin, Michael Crichton'u da sayabiliriz belki, James Ballard'ı da sayabiliriz. Onlar hani daha sonra sayı çıktılar ama özellikle üç isim bakın Arthur C. Clarke, Robert A. Heinlein ve Philip K. Dick bu üç yazar...
+* [[2024-01#19]] 21:31  ..."Gelecek nasıl olabilir?" kaygısıyla ve çıkış noktasıyla... ...bilimkurgu eserleri yazmaya başladılar. Kimdi bu yazarlar? Hemen size hatırlatmaya çalışayım. Arthur C. Clarke, Robert A. Heinlein, [[Isaac Asimov]]... Philip K. Dick, [[Ursula K. Le Guin]], Michael Crichton'u da sayabiliriz belki, James Ballard'ı da sayabiliriz. Onlar hani daha sonra sayı çıktılar ama özellikle üç isim bakın [[Arthur C. Clarke]], Robert A. Heinlein ve Philip K. Dick bu üç yazar... [[Science Fiction]]
 
 * [[2024-01#19]] 21:31  ...öncelikle bu isimleri... ...edebiyat dünyası sahiplenmektense... ...bilim dünyası sahiplendi. Bakın edebiyatta üretimler yapıyorlar... ...ancak edebiyat... ...hızlıca onları içerisine almıyor. Hızlıca takdir etmiyor. Önce bilim dünyası... ...felsefi olarak bu yazarları... ...saygıyla karşılıyor.
 

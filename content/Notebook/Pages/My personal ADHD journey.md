@@ -2,12 +2,12 @@
 description:
 socialDescription:
 title: My personal ADHD journey
-draft: true
+draft: false
 tags:
   - note/personal
 link:
 date: 2025-03-05
-modified: 2025-08-21
+modified: 2025-09-03
 ---
 [[2025-01#03]] I took that [test](https://form.typeform.com/to/ejRtgCu9) and here is the result:
 Your score 145/207

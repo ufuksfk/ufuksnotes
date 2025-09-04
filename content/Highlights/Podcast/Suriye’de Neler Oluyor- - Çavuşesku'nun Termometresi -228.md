@@ -7,7 +7,7 @@ tags:
 - highlight/podcasts
 - turkiye
 date: 2025-03-07
-modified: 2025-08-21
+modified: 2025-09-03
 ---
 publisher: [[Daktilo1984]]
 published_date: [[2024-12#03]]
@@ -57,7 +57,7 @@ published_date: [[2024-12#03]]
 
 * [[2024-12#04]] 08:31  Şunu söyleyeyim, Türk kamuoyunun değilse de hükümetinin de tavrını Daha önceki tavırlarına göre birazcık daha profesyonel görüyorum. Onu da söyleyeyim. Açıklamalar vs. tahmin ettiğimden daha itidalli, daha sakin açıklamalar. Ancak tabii Türkiye'nin kamuoyunda konuşanlar, televizyonlarındaki lauballik aynen devam ediyor.
 
-* [[2024-12#04]] 08:34  Yani Arap Bağrı büyük bir fırsat penceresiydi. İşin ilginç tarafı O dönemin İslamcılığı Batı'dan da takdir gören bir İslamcılıktı. Çünkü mesela bakarsanız Arap Bağrı'nda Türkiye'ye biçilen çok olumlu roller oldu. Yani Türkiye'nin demokratik tecrübesinin Orta Doğu'yu dönüştürebileceği, Türkiye'nin ekonomik potansiyelinin Orta Doğu'yu kalkındıracağı gibi çok olumlu söylemler oldu ve genel itibariyle işte Ahmet Davutoğlu'nun bu Okyay metaforu olarak tarif ettiği bir durum ortaya çıktı yani yayı ne kadar doğuya çekerseniz o kadar batıya gider ok demişti Davutoğlu.
+* [[2024-12#04]] 08:34  Yani Arap Bağrı büyük bir fırsat penceresiydi. İşin ilginç tarafı O dönemin İslamcılığı Batı'dan da takdir gören bir İslamcılıktı. Çünkü mesela bakarsanız Arap Bağrı'nda Türkiye'ye biçilen çok olumlu roller oldu. Yani Türkiye'nin demokratik tecrübesinin Orta Doğu'yu dönüştürebileceği, Türkiye'nin ekonomik potansiyelinin Orta Doğu'yu kalkındıracağı gibi çok olumlu söylemler oldu ve genel itibariyle işte [[Ahmet Davutoğlu]]'nun bu Okyay metaforu olarak tarif ettiği bir durum ortaya çıktı yani yayı ne kadar doğuya çekerseniz o kadar batıya gider ok demişti Davutoğlu.
 
 * [[2024-12#04]] 08:36  Üstelik Türkiye'nin gücü de biraz abartıldı, bu da ortaya çıktı. İşte bu Mısır'daki darbenin olmasıyla beraber. Bu yüzden Ve Suriye'de mesela Türkiye'nin orada operasyon yapmaması ve Amerika Birleşik Devletleri'ne berbağlaması da aslında Türkiye'nin o gücünün abartıldığını gösteriyor aslında bir noktada.
 

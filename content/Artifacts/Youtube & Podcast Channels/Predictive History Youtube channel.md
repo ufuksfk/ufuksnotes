@@ -1,16 +1,16 @@
 ---
-draft: true
+draft: false
 description:
 socialDescription:
-title: Predictive History
+title: Predictive History Youtube channel
 tags:
   - artifacts/youtube
 date: 2025-06-24
-modified: 2025-08-21
+modified: 2025-09-01
 ---
 https://www.youtube.com/@PredictiveHistory
 
-In his Foundation series, Isaac Asimov proposed that the science of "psycho-history" will help humanity understand its past, predict its future, and control its present.  This channel is dedicated to exploring if "psycho-history" is indeed possible.   
+In his Foundation series, [[Isaac Asimov]] proposed that the science of "psycho-history" will help humanity understand its past, predict its future, and control its present.  This channel is dedicated to exploring if "psycho-history" is indeed possible.   
 
 This channel seeks to answer the following three questions:
 

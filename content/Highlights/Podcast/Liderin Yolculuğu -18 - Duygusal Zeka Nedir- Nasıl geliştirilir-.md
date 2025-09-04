@@ -6,7 +6,7 @@ title: Liderin Yolculuğu -18 - Duygusal Zeka Nedir- Nasıl geliştirilir-
 tags:
 - highlight/podcasts
 date: 2025-03-07
-modified: 2025-08-21
+modified: 2025-09-03
 ---
 publisher: [[Liderin Yolculuğu]]
 published_date: [[2025-01#02]]
@@ -20,7 +20,7 @@ published_date: [[2025-01#02]]
 
 * [[2025-01#12]] 08:57  Sen çok duygusalsın, çok çabuk etkileniyorsun. Daha sert olman lazım. Dönemi artık devre dışı kalıyor.
 
-* [[2025-01#12]] 08:58  Klasik amigdalanın şalter atma mekanizması. Amigdala şalter attığı zaman biz zaten kendimiz olmaktan çıkıyoruz. Bu durumda ne yapıyoruz?
+* [[2025-01#12]] 08:58  Klasik amigdalanın şalter atma mekanizması. [[amygdala]] şalter attığı zaman biz zaten kendimiz olmaktan çıkıyoruz. Bu durumda ne yapıyoruz?
 
 * [[2025-01#12]] 08:59  Çünkü ben duyguları okumaya başlarsam, duyguları daha iyi anlarsam, duygularla daha iyi oynamaya başlıyorum. Ve bu ilişkime de yansıyor. Karşımdakini daha iyi anlıyorum, karşı taraf beni daha iyi anlıyor.
 

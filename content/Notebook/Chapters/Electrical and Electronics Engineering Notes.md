@@ -1,12 +1,12 @@
 ---
-draft: true
+draft: false
 description:
 socialDescription:
 title: Electrical and Electronics Engineering Notes
 tags:
   - note/chapter
 date: 2025-05-18
-modified: 2025-08-21
+modified: 2025-09-04
 ---
 ## Wiki
 #wiki/electrical 

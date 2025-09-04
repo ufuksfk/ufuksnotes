@@ -6,5 +6,6 @@ title: Circular Economy Notes
 tags:
   - note/chapter
 date: 2025-03-05
-modified: 2025-08-29
+modified: 2025-09-04
 ---
+[[Channels about sustainability, circular economy, green energy]]

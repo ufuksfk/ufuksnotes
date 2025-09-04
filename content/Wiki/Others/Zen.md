@@ -4,8 +4,8 @@ socialDescription:
 title: Zen
 draft: false
 tags:
-  - wiki
-link: https://en.wikipedia.org/wiki/Zen
+  - wiki/philosophy
 date: 2025-03-05
-modified: 2025-08-28
+modified: 2025-09-04
 ---
+link: https://en.wikipedia.org/wiki/Zen

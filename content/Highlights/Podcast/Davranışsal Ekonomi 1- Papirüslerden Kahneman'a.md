@@ -6,7 +6,7 @@ title: "Davranışsal Ekonomi 1- Papirüslerden Kahneman'a"
 tags:
 - highlight/podcasts
 date: 2025-03-07
-modified: 2025-08-21
+modified: 2025-09-04
 ---
 publisher: [[Fularsız Entellik]]
 published_date: [[2023-10#01]]
@@ -59,5 +59,5 @@ published_date: [[2023-10#01]]
 
 * [[2023-12#06]] 10:23  Çok çok kârlı olmadıkça pek kimsenin değiş dokuşa, satışa yanaşmaması bu yüzden. Şimdi bunları kafanızda irasyonellik diye, aptallık diye etiketlemiyorsunuzdur umarım. Bahsettiğim etkiler çok garip sonuçlara yol açabiliyorlar tabii ama mekanizmaların kendisi aptalca değil. Kayıptan kaçınmayı düşünün. Doğadaki bir canlının her şeyini kaybetmesi, hadi her şeyin olmasın varlıklarının yarısını kaybetsin. Bu bile onu ölümle burun buruna getirecektir. Büyük risk. Öte yandan varlıklarını ikiye katlamasının faydası görece daha küçük.
 
-* [[2023-12#06]] 10:23  Sahiplik etkisine ismini veren kişi, bahsettiğim deneyleri kahnemanla ortaklaşa düzenleyen Richard Taylor'dı. Taylor'ın o dönemdeki bir diğer büyük katkısı da zihinsel muhasebe kavramı. Sene 1980. Madem 80'lere geldik, yeni bir döneme girdik, o zihinsel muhasebeyi ve sonraki gelişmeleri devam bölümünde ele alalım. Sadece Taylor'dan da değil, çok eğlenceli örnekler veren Rory Sutherland isimli pazarlamacıdan ve Dan Ariel ile Francesca Gino gibi meşhur isimlerin karıştığı hile skandalından bahsedeceğim.
+* [[2023-12#06]] 10:23  Sahiplik etkisine ismini veren kişi, bahsettiğim deneyleri kahnemanla ortaklaşa düzenleyen Richard Taylor'dı. Taylor'ın o dönemdeki bir diğer büyük katkısı da zihinsel muhasebe kavramı. Sene 1980. Madem 80'lere geldik, yeni bir döneme girdik, o zihinsel muhasebeyi ve sonraki gelişmeleri devam bölümünde ele alalım. Sadece Taylor'dan da değil, çok eğlenceli örnekler veren [[Rory Sutherland]] isimli pazarlamacıdan ve [[Dan Ariely]] ile Francesca Gino gibi meşhur isimlerin karıştığı hile skandalından bahsedeceğim.
 

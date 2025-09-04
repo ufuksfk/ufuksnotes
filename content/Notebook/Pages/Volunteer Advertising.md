@@ -8,4 +8,4 @@ tags:
 date: 2025-07-09
 modified: 2025-08-21
 ---
-[[List of companies I volunteerly advertise]]
+[[List of companies I would volunteerly advertise]]
