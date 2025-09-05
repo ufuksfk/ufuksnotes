@@ -4,11 +4,9 @@ description:
 socialDescription:
 title: index
 date: 2025-03-05
-modified: 2025-08-22
+modified: 2025-09-05
 ---
 Welcome to my second brain. At this moment, you are about to explore my ideas. If you need to ask question or reach out to me, easiest way is to search for "ufuksfk" username on any platform. 
-
-Or basically, send an e-mail to: ufuksfk@gmail.com
 
 Here are a couple of main social media platforms I use:
 

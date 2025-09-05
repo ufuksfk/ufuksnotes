@@ -6,7 +6,7 @@ title: Idea behind this mess
 tags:
   - note/personal
 date: 2025-03-15
-modified: 2025-09-04
+modified: 2025-09-05
 ---
 So, if you’re reading this on my website, what you see here is just a published slice of it. A pretty small percentage, actually. After a few failed attempts to publish my “second brain” in full, I decided to keep certain parts hidden. Especially the highlights — since they might look too much like content scraping or violation.
 
@@ -26,9 +26,12 @@ course >highlight/course
 Wikipedia >highlight/wikipedia 
 Even twitter -> >highlight/twitter (I will keep refering it Twitter as soon as it is legal)
 And you can find them under Highlight folder all organized.
-Within that folder, everything you can find is not my words, which means I learned it from someone else. Which is I believe good way of seperating others ideas and my thoughts. 
+Within that folder, everything you can find ==is not my words==, which means I learned it from someone else. Which is I believe good way of seperating others ideas and my thoughts.
+And as I said, I decided to not publish that segment because it might be violation to copyrights for some of them. And actually that would make that website a couple of gigabyte instead of a couple of hunded megabyte :)
 ### People
-In this folder, you can find people :) I think most important thing is from which mouth I heart or read that information. It is more important than a book or podcast for me. But for today I am failing to connect all the higlights to people. People folder is more like a list of people I learned something about them or learned something from them.
+In this folder, you can find people :) I think most important thing is from which mouth I heart or read that information. It is more important than a book or podcast for me. But for today I am failing to connect all the highlights to people. People folder is more like a list of people I learned something about them or learned something from them.
+# Organizations
+That folder contains both companies and any kind of organizations. Like political parties, non-profits. But not countries.
 ### Wiki
 This is my personal wikipedia fork. For example, If I am learning something about [[Zen]] buddhism I tends to connect those notes to that main topic. And to organize topics, I couldn't find a better common ground database than Wikipedia. So, I am trying to keep them same name as in Wikipedia. Things like countries, cities, art movements. Or things about software, engineering, design and so on. 
 ### Products

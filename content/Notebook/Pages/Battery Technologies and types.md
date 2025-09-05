@@ -13,4 +13,4 @@ modified: 2025-09-05
 [[Flow battery]]
 
 [[(LFP) Lithium Iron Phosphate]]
-[[(NCM) Lithium nickel manganese cobalt oxides]]
+[[(NMC) Lithium nickel manganese cobalt oxides]]

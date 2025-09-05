@@ -17,7 +17,7 @@ author: [[DH+]]
 Created time: [[2024-10-29]]
 
 [[(LFP) Lithium Iron Phosphate]]
-[[(NCM) Lithium nickel manganese cobalt oxides]]
+[[(NMC) Lithium nickel manganese cobalt oxides]]
 ### [0:00 Giriş](https://www.youtube.com/watch?v=HEyGWqvkK0I&type=snipo&t=0s)
 
 ayni modelin farkli paketlerinde bile goruyoruz

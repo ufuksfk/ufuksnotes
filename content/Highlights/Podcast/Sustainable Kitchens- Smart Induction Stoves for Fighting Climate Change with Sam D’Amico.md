@@ -3,17 +3,15 @@ draft: true
 description:
 socialDescription:
 title: Sustainable Kitchens- Smart Induction Stoves for Fighting Climate Change with Sam D’Amico
-  \ Sam D\u2019Amico"
 tags:
-- highlight/podcasts
+  - highlight/podcasts
 date: 2025-03-07
-modified: 2025-08-21
+modified: 2025-09-05
 ---
 publisher: [[Hardware to Save a Planet]]
 published_date: [[2024-11#07]]
 
-
-[[Sam D’Amico]] and 
+[[Sam D’Amico]] and [[Impulse Labs]]
 ## Highlights
 * [[2024-11#08]] 18:50  He started his career as a hardware engineer at Google X back in the Google Glass days. Since Then he's worked on hardware for Oculus, Facebook and Google before founding impulse in 2021. Sam, I haven't told you this, but I think you're a very cool guy and I love what you're doing. And you've actually been on my dream podcast guest list for almost two years since I first read about what you were doing. So, really happy to have you here.
 

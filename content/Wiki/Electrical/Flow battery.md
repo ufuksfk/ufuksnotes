@@ -2,8 +2,10 @@
 description:
 socialDescription:
 title: Flow battery
-draft: true
-tags: 
+draft: false
+tags:
+  - wiki/technical
+  - wiki/electrical
 link: https://en.wikipedia.org/wiki/Flow_battery
 date: 2025-03-05
 modified: 2025-08-29

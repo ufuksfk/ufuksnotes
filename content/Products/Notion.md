@@ -7,6 +7,6 @@ tags:
   - product/note-taking
 link:
 date: 2025-03-06
-modified: 2025-08-28
+modified: 2025-09-05
 ---
-https://www.youtube.com/watch?v=b00sgRR_Vc0
+https://www.notion.so/
