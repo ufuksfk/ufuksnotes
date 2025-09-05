@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 description:
 socialDescription:
 title: Ceramic resonator
@@ -7,7 +7,7 @@ tags:
   - wiki/component
   - wiki/electrical
 date: 2025-05-18
-modified: 2025-08-21
+modified: 2025-09-05
 ---
 - **What it is**  
     A three‑pin device (two resonator pins + common ground) made of piezoelectric ceramic.

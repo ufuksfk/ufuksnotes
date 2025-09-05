@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 description:
 socialDescription:
 title: Crystal vs Oscillator vs Resonator
@@ -7,7 +7,7 @@ tags:
   - note/versus
   - note/electrical
 date: 2025-05-18
-modified: 2025-08-21
+modified: 2025-09-05
 ---
 
 [[Quartz Crystal]]: When you need high precision, low jitter, or very stable clock (e.g. USB, radio, precision timers).

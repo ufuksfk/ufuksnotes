@@ -2,10 +2,10 @@
 draft: false
 description:
 socialDescription:
-title: USB
+title:
 tags:
-  - wiki/component
-  - wiki/electrical
-date: 2025-03-05
+  - wiki/technical
+date: 2025-08-21
 modified: 2025-09-05
 ---
+[[List of spintronics companies]]

@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 description:
 socialDescription:
 title: Crystal oscillator
@@ -7,7 +7,7 @@ tags:
   - wiki/component
   - wiki/electrical
 date: 2025-05-18
-modified: 2025-08-21
+modified: 2025-09-05
 ---
 - **What it is**  
     A self‑contained 3‑ or 4‑pin package that **integrates** a quartz crystal **and** the oscillator circuitry (inverter, buffers, level‑shift).

@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 description:
 socialDescription:
 title: USB-C
@@ -7,6 +7,6 @@ tags:
   - wiki/electrical
   - wiki/component
 date: 2025-03-05
-modified: 2025-08-21
+modified: 2025-09-05
 ---
 types of [[USB]] connection. Generally supports higher speeds and different protocols.
