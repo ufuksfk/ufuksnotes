@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 description:
 socialDescription:
 title: why we have all songs at spotify but not all movies at netflix
@@ -8,7 +8,7 @@ tags:
   - note/product
   - note/idea
 date: 2025-03-12
-modified: 2025-08-21
+modified: 2025-09-08
 ---
 [[Netflix]] [[Spotify]]
 For the music industry, it doesn't matter which platform you chose. But for movies, we suppose to subscribe to a lot of streaming platform and if you are lucky, you can find the movie you are looking for.

@@ -1,12 +1,12 @@
 ---
-draft: true
+draft: false
 description:
 socialDescription:
 title: Beehiv vs Substack
 tags:
   - note/versus
 date: 2025-03-20
-modified: 2025-08-21
+modified: 2025-09-08
 ---
 [[Beehiv]] vs [[Substack]]
 

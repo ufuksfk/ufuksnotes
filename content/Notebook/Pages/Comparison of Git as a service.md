@@ -2,12 +2,12 @@
 description:
 socialDescription:
 title: Comparison of Git as a service
-draft: true
+draft: false
 tags:
   - note/versus
 link:
 date: 2025-03-05
-modified: 2025-08-21
+modified: 2025-09-08
 ---
 On the other hand, [[GitLab]] is more open-source oriented and provides integration with a broader range of tools and platforms.
 
