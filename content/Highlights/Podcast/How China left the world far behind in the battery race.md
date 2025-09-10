@@ -6,10 +6,10 @@ title: How China left the world far behind in the battery race
 tags:
 - highlight/podcasts
 date: 2025-03-20
-modified: 2025-08-21
+modified: 2025-09-09
 ---
 ## Episode metadata
-- Show:: [[Zero: The Climate Race]]
+- Show:: [[Zero The Climate Race]]
 - Episode publish date:: [[2023-11#20]]
 - Show notes link:: [open website](https://omny.fm/shows/zero/how-china-left-the-world-far-behind-in-the-battery)
 - [[China]] [[Battery]]

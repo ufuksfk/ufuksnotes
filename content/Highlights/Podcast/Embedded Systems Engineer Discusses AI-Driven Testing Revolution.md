@@ -14,7 +14,7 @@ published_date: [[2025-06]]
 ...
 [[Embedded Systems Notes]]
 ## Highlights
-* [[2025-06#04]]  I still do and you'll see with my videos, two focus Areas that I that are near and dear to my heart. One is embedded based [[DevOps]] or embedded DevOps. DevOps for embedded systems, that whole automation workflow. And then another thing is
+* [[2025-06#04]]  I still do and you'll see with my videos, two focus Areas that I that are near and dear to my heart. One is embedded based [[Devops]] or embedded DevOps. DevOps for embedded systems, that whole automation workflow. And then another thing is
 
 * [[2025-06#04]]  Because I swear I get asked every, I don't know, couple months or so by some investment firm to give them some overview of some AI platform that's coming out in the electronics space. But I think one area that doesn't get enough attention is definitely the embedded area. And I think people just kind of reduce it to, oh, you know, these guys are just coding but you know, give us a little more insight.
 

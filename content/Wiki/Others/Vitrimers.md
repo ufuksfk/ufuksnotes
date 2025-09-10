@@ -12,5 +12,5 @@ modified: 2025-08-26
 - They are **covalent adaptable networks** (CANs): cross-linked like thermosets, but with **dynamic covalent bonds** that can break and reform when heated.
 - This gives them:
     - **Thermoset-like strength and chemical resistance**
-    - **[[Thermoplastics]]-like reprocessability**
+    - **[[thermoplastics]]-like reprocessability**
 Think of them as "plastic glass" (hence the name — from _vitrus_, glass).

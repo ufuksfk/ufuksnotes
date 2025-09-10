@@ -12,14 +12,14 @@ modified: 2025-08-21
 - Show:: [[Life Kit]]
 - Episode publish date:: [[2024-10-01]]
 - Show notes link:: [open website](https://www.npr.org/2024/10/01/1202891560/reduce-plastic-waste-tips)
-- About [[Wiki/Others/Plastic]]
+- About [[Plastic]]
 ## Snips
 ### [00:45] Plastic Proliferation
 [🎧 Play snip - 1min️ (00:28 - 01:00)](https://share.snipd.com/snip/92ecbd79-8032-4114-93e4-b901bd183de2)
 <audio controls> <source src="https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510338/traffic.megaphone.fm/NPR9988798768.mp3?d=1155&size=18491395&e=1202891560&t=podcast&p=510338#t=00:28,01:00"> </audio>
 **Plastic Proliferation**
 - Plastic is prevalent due to its affordability, strength, and versatility.
-- Over half of all [[Wiki/Others/Plastic]] ever produced has been manufactured since [[2002]], signaling a rapid increase in its use.
+- Over half of all [[Plastic]] ever produced has been manufactured since [[2002]], signaling a rapid increase in its use.
 #### 📚 Transcript
 **Marielle Segarra:**
 > Plastic is everywhere and for good reason. It can be cheap, strong, light, bendable, waterproof. So in recent decades, we've been making a lot more of it. In fact, over half of all plastic that's ever been made has been made since 2002.
@@ -61,7 +61,7 @@ modified: 2025-08-21
 <audio controls> <source src="https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510338/traffic.megaphone.fm/NPR9988798768.mp3?d=1155&size=18491395&e=1202891560&t=podcast&p=510338#t=14:48,15:53"> </audio>
 **Plastic Definition and Alternatives**
 - There is no federal definition of plastic in the [[USA]], making it difficult to know if products contain it.
-- Though [[glass]] is a good alternative from a health perspective, its production has a higher [[carbon footprint]] than [[Wiki/Others/Plastic]].
+- Though [[Glass]] is a good alternative from a health perspective, its production has a higher [[carbon footprint]] than [[Plastic]].
 #### 📚 Transcript
 **Claire Murashima:**
 > Like there are no nutrition facts for so many of the products we use, like wax paper, butcher paper, dryer sheets, stickers, all of which I learned often contain plastic. But there's really no way to know whether the ones I consumed did have plastic.
@@ -74,7 +74,7 @@ modified: 2025-08-21
 <audio controls> <source src="https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510338/traffic.megaphone.fm/NPR9988798768.mp3?d=1155&size=18491395&e=1202891560&t=podcast&p=510338#t=15:53,16:46"> </audio>
 **Glass vs. Plastic Recycling**
 - [[Glass]] production releases harmful gases and requires significant energy. 
-- [[Wiki/Others/Plastic]] degrades with each recycling cycle, reducing its quality and recyclability. [[recycling]]
+- [[Plastic]] degrades with each recycling cycle, reducing its quality and recyclability. [[recycling]]
 #### 📚 Transcript
 **Claire Murashima:**
 > I talked to Alice Brock. She's the researcher at the University of Southampton in the UK. She studies beverage packaging and climate change. When it comes to I think people think it's better because they go, oh, well, you can recycle it all the time, right? The thing about glass is it takes a lot of energy to make and a lot of gases are released as that happens. So you get carbon dioxide released from that, but also sulfur dioxide, which leads to acid rain and respiratory problems. But it's a trade-off because while glass can be recycled almost indefinitely, plastic can't. Here she is again. Every time you recycle plastic, it's made up of long chain molecules. Every time you recycle it, the chain gets shorter, so it can't necessarily be used as the same material again, or it has to be mixed with new plastic. And it ends up where it's such a low quality plastic it can't be recycled anymore.

@@ -22,7 +22,7 @@ last highlighted date: [[2024-04#08]]
   • Diagnostic imaging software (likely SaMD software using images from other medical devices)
   • Electronic health record systems (SaMD software, depending on regulations, it might not be a medical device)
   • Telemedicine software platforms (probably SaMD running on generic hardware platforms)
-    - Tags: [[medical software]]
+    - Tags: [[Notebook/Pages/medical software]]
     - Note: examples of md software
 - The IEC 62304 standard applies to:
   • Medical devices with embedded software, and
@@ -47,7 +47,7 @@ last highlighted date: [[2024-04#08]]
   • Confidentiality – how to protect sensitive information, for example patient data.
   • Integrity – how to ensure a device is safe to use in case of a security breach.
   • Availability – how to ensure continued services delivery in case of a hacker attack.
-    - Tags: [[cybersecurity]] [[medical software]] 
+    - Tags: [[cybersecurity]] [[Notebook/Pages/medical software]] 
 - ![](https://medicaldevicehq.com/wp-content/uploads/2024/01/IEC-62304-and-IEC-81001-5-1-1.jpg)
 - ‘Software items’ are essentially subsets of the software system. They are the individual building blocks that combine to form the software system. Each software item has a specific role in the system, much like “The Brickman” pieces below coming together to form a complete character.
 - Finally, ‘software units’ are even smaller, more granular components than software items. Software units represent the smallest testable parts of the software – the basic building blocks that make up the larger pieces (items) of ”The Brickman”.

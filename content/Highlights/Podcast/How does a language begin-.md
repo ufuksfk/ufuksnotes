@@ -24,7 +24,7 @@ published_date: 2020-05-22
 
 * [[2025-05#04]]  When they existed? That is a kind of six billion dollar question in historical linguistics. How far back can you go? It's pretty clear you can go back several thousand years. At least 6,000 years is kind of accepted by, I think, all historical linguists.
 
-* [[2025-05#04]]  Some researchers think it could be as recently as 50,000 years ago, while others, like Dan Everett, think it was much, much earlier. He's written a book called [[How Language Began (book)]]. First, humans appeared about 2 million years ago with Homo erectus. Our species, [[Homo sapiens]], started about 250 to 300,000 years ago, and [[Neanderthal]]s about 150 to 200,000 years before that. So erectus was around for more than a million years before Neanderthals or sapiens came about.
+* [[2025-05#04]]  Some researchers think it could be as recently as 50,000 years ago, while others, like Dan Everett, think it was much, much earlier. He's written a book called [[How Language Began (book)]]. First, humans appeared about 2 million years ago with Homo erectus. Our species, [[homo sapiens]], started about 250 to 300,000 years ago, and [[neanderthal]]s about 150 to 200,000 years before that. So erectus was around for more than a million years before Neanderthals or sapiens came about.
 
 * [[2025-04#29]]  These are connected physically to the things they represent. So footprints are indexes, and smoke is an index of fire.
 

@@ -7,9 +7,9 @@ tags:
   - note/list
   - note/power
 date: 2025-03-05
-modified: 2025-08-29
+modified: 2025-09-09
 ---
-[[Qvantum]]
+[[Qvantum]] from [[Sweden]]
 [[Octopus Energy]]
 [[Electricity Maps]]
 [[Hydrostor]]
@@ -17,3 +17,6 @@ modified: 2025-08-29
 [[Optigrid Energy]]
 [[Elephant Energy]]
 [[Pila Energy]]
+
+Also another list: https://tally.so/r/w7eJbz
+https://www.lunarenergy.com/

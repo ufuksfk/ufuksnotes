@@ -10,4 +10,4 @@ modified: 2025-08-21
 ---
 [[Industrial Revolution]]
 [[First Industrial Revolution]]
-[[Second Industrial Revolution]]
+[[Wiki/Others/Second Industrial Revolution]]

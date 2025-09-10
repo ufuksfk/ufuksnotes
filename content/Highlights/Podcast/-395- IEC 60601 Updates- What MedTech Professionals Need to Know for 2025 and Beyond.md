@@ -12,7 +12,7 @@ publisher: [[Global Medical Device Podcast powered by Greenlight Guru]]
 published_date: 2024-12-12
 ....
 # Note
-The [[IEC 60601]] standard is being updated, with a projected completion date of [[2029]]–[[2030]], though delays are anticipated. [[Medical device]] companies should begin planning now to understand the changes and incorporate them into their design and development cycles, especially those with long development timelines.
+The [[IEC 60601]] standard is being updated, with a projected completion date of [[2029]]–[[2030]], though delays are anticipated. [[medical device]] companies should begin planning now to understand the changes and incorporate them into their design and development cycles, especially those with long development timelines.
 
 The update involves twelve working groups addressing various aspects, including user interfaces (alarms, displays, controls), material hazards (biocompatibility), and [[wireless coexistence]]. The changes aim to improve risk mitigation and incorporate new hazards identified since the previous edition.
 

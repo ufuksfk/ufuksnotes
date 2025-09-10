@@ -32,6 +32,6 @@ Eger trump, mevcut sistem icinde kalirsa [[Türkiye]] [[BRICS]] cabalari basina 
 
 ekonomik savas yili olacak. [[2025]]
 
-[[Gold]] fiyatlari dusuyor, [[bitcoin]] firliyor. Demek savas beklentisi yok?
+[[Gold]] fiyatlari dusuyor, [[Bitcoin]] firliyor. Demek savas beklentisi yok?
 
 [[Russia]] henuz [[BRICS]] para birimi olayina var dedi. Yani amerika’ya satasmiyor.

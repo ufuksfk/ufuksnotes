@@ -9,7 +9,7 @@ date: 2025-08-04
 modified: 2025-08-21
 ---
 
-publisher: [[CleanTechies Podcast]]
+publisher: [[CleanTechies]]
 published_date: 2023-09-27
 ...
 

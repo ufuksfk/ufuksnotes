@@ -15,7 +15,7 @@ published_date: [[2023-09#11]]
 about [[Ichiro Kishimi]] and [[The Courage to Be Disliked]]
 # Note
  The book "The Courage to Be Disliked" by Ichiro Kishimi and Fumitake Koga explores the idea that we are responsible for our actions and choices, emphasizing the importance of self-fulfillment over seeking approval from others.
-The book introduces [[Adlerian psychology]], focusing on empowerment and the concept that trauma is a result of subjective interpretations rather than objective facts.
+The book introduces [[Adlerian Psychology]], focusing on empowerment and the concept that trauma is a result of subjective interpretations rather than objective facts.
 The authors use a dialogue format to explain Adler's ideas, but the character development and radical approaches in the book may oversimplify complex topics and potentially lead to dismissive attitudes towards trauma.
 The core message of the book is to have the courage to be disliked, live in freedom, and focus on self-acceptance and contribution to others rather than seeking recognition or approval.
 

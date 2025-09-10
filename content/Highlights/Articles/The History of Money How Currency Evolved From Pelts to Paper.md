@@ -23,7 +23,7 @@ published date: [[2023-12#11]]
   Pawnbrokers — They functioned similarly to modern-day pawnshops, offering temporary loans in exchange for personal property. 
   Money-changers — These citizens charged a fee to exchange currencies. 
   Merchant bankers — At the top of the social classes, these wealthy citizens offered loans from either personal funds or from partners’ funds.
-- In [[1816]], [[gold]] became the standard of value in England. Each bank note represented a certain amount of gold, so only a limited number of bank notes could be printed. This gave previously unbacked currency some semblance of value and stability. By [[1900]], the [[USA]] had followed suit with the Gold Standard Act. While the gold standard would slowly fade out of usage by the [[1970s]], the gold standard played an important role in the history of U.S. money.
+- In [[1816]], [[Gold]] became the standard of value in England. Each bank note represented a certain amount of gold, so only a limited number of bank notes could be printed. This gave previously unbacked currency some semblance of value and stability. By [[1900]], the [[USA]] had followed suit with the Gold Standard Act. While the gold standard would slowly fade out of usage by the [[1970s]], the gold standard played an important role in the history of U.S. money.
 - 
 - **Sourcing** 
   • *The origin of coins and paper money.* [*Forms of money | Smithsonian*](https://americanhistory.si.edu/the-value-of-money/origins-money/forms-money) *(March 2023)*

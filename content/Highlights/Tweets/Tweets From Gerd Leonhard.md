@@ -12,4 +12,4 @@ author: [[Gerd Leonhard]]
 
 url: https://twitter.com/gleonhard
 ## Highlights
-- 'Sustainable [[capitalism]]' can stem the tide of populism: Michelin CEO https://t.co/iJ4WLxL6DD
+- 'Sustainable [[Capitalism]]' can stem the tide of populism: Michelin CEO https://t.co/iJ4WLxL6DD

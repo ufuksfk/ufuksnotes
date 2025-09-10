@@ -10,7 +10,7 @@ author: [[Ensinger]]
 url: https://www.ensingerplastics.com/en/microsystems/substrate-solutions
 last highlighted date: [[2025-W35#1]] 2025-08-25
 published date: [[]]
-document note: [[E-waste]]
+document note: [[e-waste]]
  This also relates to vapor material for chip manufacturing.
 
 ## Highlights

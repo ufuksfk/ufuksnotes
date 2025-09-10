@@ -9,7 +9,7 @@ title: "Yusuf el Şerif ile söyleşi- Arap dünyası yeni Suriye'ye nasıl bak�
 date: 2025-03-07
 modified: 2025-08-21
 ---
-publisher: [[Ruşen Çakır]]
+publisher: [[People/Ruşen Çakır]]
 published_date: [[2025-01#07]]
 
 

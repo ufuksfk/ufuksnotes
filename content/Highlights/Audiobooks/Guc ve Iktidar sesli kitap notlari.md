@@ -159,7 +159,7 @@ sanayilesme, ingiltere ve amerika.
 
 08:20
 
-muhafazakarlar, [[manchester]], kamu sagligi
+muhafazakarlar, [[Manchester]], kamu sagligi
 
 kitapta buyuk buhran sonrasi [[Sweden]] ve [[Germany]] anlatiliyor.
 
@@ -260,7 +260,7 @@ yaratici [[Capitalism]]
 [[George Orwell]] [[1984 (book)]] romaninda korkusu kitaplarin yasaklanmasiydi. [[Aldous Huxley]] ise kitaplari yasaklamaya gerek kalmayacak bir toplum olusmasindan korkuyordu. Korkariz ki [[China]], huxleyin cesur yeni dunya kitabina yaklasiyor.
 
 - [ ] pegasus yazilimi truva, macron suc kartelleri
-- [ ] [[myanmar]] [[facebook]] dezenformasyon cesitli dinler irklar diller
+- [ ] [[Myanmar]] [[facebook]] dezenformasyon cesitli dinler irklar diller
 - [ ] [[facebook]]. [[2007]] beacon denemesi failed, sonra beğen tuşu
 - [ ] [[People's Computer Company]]- [ ] [[The History of the Standard Oil Company (Unexpurgated E…]]- [ ] [[universal basic income]] kotu yonleri, sadece fakire vermiyon ve insanlar kendini degerli hissetmiyor
 - [ ] aids ornegi uzerinden toplumun baskisi ile politika ornegi

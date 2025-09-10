@@ -12,7 +12,7 @@ author: [[Beth Sissons & How We Reviewed This Article]]
 url: https://www.medicalnewstoday.com/articles/birth-order-theory
 last highlighted date: [[2025-06#09]]
 
-[[Wiki/Others/Birth order theory|Birth order theory]]
+[[Birth order theory|Birth order theory]]
 ## Highlights
 - The Austrian psychotherapist [[Alfred Adler]] first introduced the birth order theory.
 - As a firstborn, the oldest child [may receive](https://pjpr.scione.com/newfiles/pjpr.scione.com/839/2023-38-2-1-839.pdf) the most undivided attention from their parents, and parents may impart their beliefs and rules predominantly onto this child.

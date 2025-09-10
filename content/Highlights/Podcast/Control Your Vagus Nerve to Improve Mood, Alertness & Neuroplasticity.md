@@ -27,7 +27,7 @@ modified: 2025-08-21
 [🎧 Play snip - 1min️ (11:54 - 12:45)](https://share.snipd.com/snip/b486aef1-af48-466e-b7c6-8d692b7b12c1)
 <audio controls> <source src="https://traffic.megaphone.fm/SCIM9674777621.mp3?updated=1753970093#t=11:54,12:45"> </audio>
 **Vagus Nerve Complexity**
-- The [[vagus nerve]] contains both sensory and motor neurons, which is crucial for understanding its diverse functions.
+- The [[Vagus Nerve]] contains both sensory and motor neurons, which is crucial for understanding its diverse functions.
 - Knowing this distinction allows one to access the calming, energizing, immune-enhancing, and learning-improving effects of vagus nerve activation.
 #### 📚 Transcript
 **Andrew Huberman:**
@@ -117,7 +117,7 @@ modified: 2025-08-21
 [🎧 Play snip - 1min️ (01:14:04 - 01:15:25)](https://share.snipd.com/snip/d5c1c670-ff7a-4a4f-bda4-986fb312148e)
 <audio controls> <source src="https://traffic.megaphone.fm/SCIM9674777621.mp3?updated=1753970093#t=01:14:04,01:15:25"> </audio>
 **Neuroplasticity and Sleep**
-- [[Neuroplasticity]] occurs during [[sleep]], especially deep and REM sleep. 
+- [[neuroplasticity]] occurs during [[sleep]], especially deep and REM sleep. 
 - Struggle and incremental learning trigger the rewiring of circuits that lead to neuroplasticity.
 #### 📚 Transcript
 **Andrew Huberman:**

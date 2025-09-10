@@ -10,7 +10,7 @@ modified: 2025-08-21
 ---
 author: [[keysight.com]]
 url: https://docs.keysight.com/kkbopen/oscilloscope-probes-passive-vs-active-608540396.html
-[[Oscilloscope]]
+[[Wiki/Technical/Oscilloscope]]
 last highlighted date: [[2024-04#09]]
 
 ## Highlights

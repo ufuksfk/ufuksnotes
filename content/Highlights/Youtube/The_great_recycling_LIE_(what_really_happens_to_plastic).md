@@ -10,7 +10,7 @@ modified: 2025-08-21
 ---
 https://www.youtube.com/watch?v=3R7XAeWCNqI&type=snipo
 
-[[Wiki/Others/Plastic]]
+[[Plastic]]
 [[Abundantia]]
 
 

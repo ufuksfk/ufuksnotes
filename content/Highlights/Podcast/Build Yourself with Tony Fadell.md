@@ -21,7 +21,7 @@ modified: 2025-08-21
 5. Learning through hands-on experiences and actively engaging in new things can lead to personal growth and self-discovery.
 6. Solo travel can facilitate personal growth, self-discovery, and independence by experiencing different cultures and navigating challenges independently.
 7. Transitioning opinion-based decisions into fact-based decisions is crucial for making well-informed choices, especially in areas like investing.
-8. [[Design thinking]] can be applied in various aspects of daily life, from choosing outfits to making significant life decisions.
+8. [[design thinking]] can be applied in various aspects of daily life, from choosing outfits to making significant life decisions.
 9. Designing your life involves making intentional choices that align with your values and goals, rather than following societal norms.
 10. Solving unseen problems, such as addressing issues not widely perceived like climate change, requires attention and action for long-term impact.
 11. Balancing costs and environmental impact in business decisions is crucial, considering factors like carbon emissions and environmental consequences.

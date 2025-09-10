@@ -12,9 +12,9 @@ modified: 2025-08-21
 # [[Magna Carta]]
 Monarşinin acziyeti Magna Carta'yı doğuruyor. Aslan Yürekli richard öldüğünde yerine iki aday vardı; John ve normandiya'daki yeğeni arthur. John, Arthur'u yakalatıp hapse attı ve kendisinden bir daha haber alınamadı. John, başarısız bir liderdi. Bardağı taşıran damla olarak Normandiya ve Poitou'yu almak için vergileri arttırdı. [[1215]] yılında lordlar anlaşmayı krala zorla imzalattı. Belalı 61. madde yüzünden ilk fırsatta anlaşmayı tanımayan John, [[United Kingdom]]'yi [[birinci lordlar savaşı]]na sürükledi. John, 1216'da dizanteriden ölünce yerine oğlu çocuk kral geçti. [[1217]] yılında kral naipleri tarafından imzalanan [[Magna Carta]],[[1225]] yılında 18 yaşına gelen Henry tarafından da onaylandı. [[Magna Carta]], bazı politik özgürlükleri garanti altına alıyor, monarşiden bağımsız bir kilise kurulmasını öngören maddeler içeriyor, adaleti ve kanunu üstün tutarak kraliyetin faaliyetlerine sınırlama getiriyordu. Kelimesi kelimesine [[1100]] yılındaki Özgürlükler Anlaşması'nın bir kopyasıydı. [[1957]] yılında Amerikan Barolar Birliği, Runnymede'de bir anıt inşa ederek Amerika'nın kanunları ve anayasasını [[Magna Carta]]'ya borçlu olduğunu kabul etti. [[Magna Carta]] [[1297]] versiyonu, sadece giriş kısmı, üç maddesi ve sonuç kısmı yürürlükte olmasına rağmen hala ingiliz hukukunun bir parçasıdır. Başkan Roosevelt'in eşi [[Eleanor Roosevelt]], İnsan haklari evrensel beyannamesi'ni [[Magna Carta]]'nın tüm insanlığa hitap eden şekli olarak tanımlamıştır.
 
-# [[Renaissance]]
+# [[Wiki/Others/Renaissance]]
 
-Pozitif akıl, skolastik akla galip gelmiş, Avrupa o gıpta ile izlenen teknolojik zıplamasını gerçekleştirmiştir. Yani, dinin yerine bilim geçmiştir. Ana hatları ile; Yeryüzü ilginçtir, araştırılmalıdır. İnsanoğlu güçlüdür ve çok şey başarabilir. Özellikle de aklıyla. İnsanın sürekli faal olması onurlu bir iştir, sürekli çalışılması araştırılmalıdır. Dahası gerçek olan güzeldir. [[Raphael]] eseri [[The School of Athens]] Marksist tarihçiler, [[Renaissance]]'ı avrupa toplumunun büyük bir kısmı ortaçağ'da kalırken; küçük, varlıklı ve güçlü bir grubun sanat ve felsefe alanında gerçekleşen değişimlerden etkilendiği sahte devrim olarak tanımlar. [[Wiki/Others/Renaissance|Renaissance]]; Fransa'da sanat, [[Germany]]'da dini tablo ve resimler, İngiltere'de edebiyat, İspanya'da resim ve edebiyat alanında kendini gösterdi. William Shakespeare, Mıguel de Cervantes dönemin parlak yıldızlarıdır. [[16th century]] olgunluğuna ulaşan [[Renaissance]], da vinci, [[Michalengelo]] [[Raphael]] gibi sanatçıların doğuşuna zemin hazırladı.
+Pozitif akıl, skolastik akla galip gelmiş, Avrupa o gıpta ile izlenen teknolojik zıplamasını gerçekleştirmiştir. Yani, dinin yerine bilim geçmiştir. Ana hatları ile; Yeryüzü ilginçtir, araştırılmalıdır. İnsanoğlu güçlüdür ve çok şey başarabilir. Özellikle de aklıyla. İnsanın sürekli faal olması onurlu bir iştir, sürekli çalışılması araştırılmalıdır. Dahası gerçek olan güzeldir. [[Raphael]] eseri [[The School of Athens]] Marksist tarihçiler, [[Wiki/Others/Renaissance]]'ı avrupa toplumunun büyük bir kısmı ortaçağ'da kalırken; küçük, varlıklı ve güçlü bir grubun sanat ve felsefe alanında gerçekleşen değişimlerden etkilendiği sahte devrim olarak tanımlar. [[Wiki/Others/Renaissance|Renaissance]]; Fransa'da sanat, [[Germany]]'da dini tablo ve resimler, İngiltere'de edebiyat, İspanya'da resim ve edebiyat alanında kendini gösterdi. William Shakespeare, Mıguel de Cervantes dönemin parlak yıldızlarıdır. [[16th century]] olgunluğuna ulaşan [[Wiki/Others/Renaissance]], da vinci, [[Michalengelo]] [[Raphael]] gibi sanatçıların doğuşuna zemin hazırladı.
 
 # [[Age of Enlightenment]]
 En büyük ismi [[Leonardo da Vinci]], anatomi ile ilgilenmiştir. [[Age of Enlightenment]] , fransız ve amerikan devrimlerinin ve latin amerika bağımsızlık hareketlerinin filizlerini atmıştır.
@@ -33,7 +33,7 @@ Let's look at the French Revolution, a time of big changes in France and Europe.
 # [[Industrial Revolution]]
 Bu devrimi, 17.yy yaşanan İngiliz iç savaşının ardından büyük britanya'da feodalizmin sona ermesiyle ortaya çıkan bir sonuç olarak görür. İngiliz Tarım devrimi, daha fazla gıdanın daha az iş gücüyle üretilmesini sağlayınca, tarımda iş bulamayanlar dokuma ve tekstil sanayiine yöneldiler. Devrimin fikri: [[Protestan]] ahlakı Buhar, sanayiiyi şaha kaldırdı. Lokomotif ve buhar gemisi ulaşım patlamasını getirdi. İngiltere, çünkü orada uzun süreli bir anayasal monarşi vardı. Devrimin faturası çocuk işçilere kaldı. Buhar motoru ile kolaylaşan matbaa, edebiyat ve politikaya olan ilgiyi arttırdı. Sınıf bilinci oluştu.
 
-[[Second Industrial Revolution]] baş aktörlük, amerika ve [[Germany]]ya geçti. Esas mevzu çelik üretimi oldu.
+[[Wiki/Others/Second Industrial Revolution]] baş aktörlük, amerika ve [[Germany]]ya geçti. Esas mevzu çelik üretimi oldu.
 
 # [[1917 - Russian Revolution]]
 Rusya'da gerceklesen Ekim devrimi, kabaca, gecici hukumetin carlik rusyasini devirmesiyle [[1917]] yilinda baslayan, [[1922]] yilinda sovyetler birliginin kurulmasiyla zirveye cikan ve [[1991]]'de cokusle son bulan politik bir surectir. Once Subat devrimi = carlik yikildi Sonra ekim devrimi = Bolsevik darbesi [[Proleter]] Imparatorlugu
@@ -53,7 +53,7 @@ Bolsevikler = kizillar, komunistler, devrimciler Mensevikler = Beyazlar, azinlik
 
 [[Treaty of Sevres]]
 
-[[Wiki/Others/Treaty of Lausanne|Treaty of Lausanne]]
+[[Treaty of Lausanne|Treaty of Lausanne]]
 
 [[Middle east]] [[18th century]] sonlarında osmanlı ve rusya arasındakı [[Küçük Kaynarca Antlaşması]] ile sorun başladı. Napolyon mısıra çok kolay girdi.
 
@@ -251,7 +251,7 @@ iki lider nükleer silah kategorilerini ortadan kaldıracak tarihi anlaşmaya im
 
 [[Ronald Reagan]] , moskova devlet üniversitesinde leninin heykeli önünde halka sesleniyor.
 
-[[1956]] yılında özgürlük girişimi yapan [[hungary]] sovyetler tarafından ezildi. 1989 yılında yine seçim yapmayı planlarken, nemeth gorbacova nasıl serbest seçim yaparız sizin 80k askeriniz ülkemizde diye sordu. gorbacov ise: sizle hemfikir değilim ama benim sorumluluğumda değil ne isterseniz yapın dedi.
+[[1956]] yılında özgürlük girişimi yapan [[Hungary]] sovyetler tarafından ezildi. 1989 yılında yine seçim yapmayı planlarken, nemeth gorbacova nasıl serbest seçim yaparız sizin 80k askeriniz ülkemizde diye sordu. gorbacov ise: sizle hemfikir değilim ama benim sorumluluğumda değil ne isterseniz yapın dedi.
 
 çözülme polonya ile devam etti. doğu almanya lideri honecker, göte geleceğini anladı. [[Germany]] cavusesku, 1989da idam edildi. romanya da koptu
 

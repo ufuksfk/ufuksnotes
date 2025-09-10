@@ -12,7 +12,7 @@ modified: 2025-08-21
 - Show:: [[Short Wave]]
 - Episode publish date:: [[2022-12-12]]
 - Show notes link:: [open website](https://www.npr.org/2022/12/08/1141601301/the-myth-of-plastic-recycling)
-- about [[Wiki/Others/Plastic]] and[[recycling]]
+- about [[Plastic]] and[[recycling]]
 - listened at [[2025-W32]]
 ## Snips
 ### [00:35] Recycling Habits

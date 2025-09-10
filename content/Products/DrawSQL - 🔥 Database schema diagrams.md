@@ -11,4 +11,4 @@ modified: 2025-08-21
 ---
 ![](https://drawsql.app/img/drawsql-banner.png?678fedf74962b4.43594859)
 
-An option to generate [[Database schema]]
+An option to generate [[Wiki/Others/Database schema]]

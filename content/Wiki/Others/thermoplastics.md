@@ -1,12 +1,12 @@
 ---
-draft: true
+draft: false
 description:
 socialDescription:
 title: thermoplastics
 tags:
   - wiki/material
 date: 2025-03-05
-modified: 2025-08-24
+modified: 2025-09-10
 ---
 Well-known thermoplastics include [[polyethylene (PE)]], [[polypropylene (PP)]], and [[polyvinyl chloride (PVC)]]
 

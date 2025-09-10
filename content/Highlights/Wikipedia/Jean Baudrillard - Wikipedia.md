@@ -24,7 +24,7 @@ about [[Jean Baudrillard]]
 - it was consumption rather than production that was the main driver of capitalist society (Location 183)
 - He stressed that all purchases, because they always signify something socially, have their fetishistic side. (Location 187)
 - He denies any possibility of a (mimetic) duplication of reality; reality mediated through language becomes a game of signs. In his theoretical system all distinctions between the real and the fictional, between a copy and the original, disappear". (Location 217)
-- In the [[Renaissance]], the dominant simulacrum was in the form of the counterfeit, where people or objects appear to stand for a real referent that does not exist (Location 221)
+- In the [[Wiki/Others/Renaissance]], the dominant simulacrum was in the form of the counterfeit, where people or objects appear to stand for a real referent that does not exist (Location 221)
 - With the Industrial Revolution, the dominant simulacrum becomes the product, which can be propagated on an endless production line. (Location 223)
 - He argued, much like the political theorist [[Francis Fukuyama]], that history had ended or "vanished" with the spread of [[globalization]]; but, unlike Fukuyama, Baudrillard averred that this end should not be understood as the culmination of history's progress, (Location 228)
 - Conclusion: if there are no more dustbins of history, this is because History itself has become a dustbin. It has become its own dustbin, just as the planet itself is becoming its own dustbin. (Location 243)

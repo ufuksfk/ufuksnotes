@@ -27,7 +27,7 @@ modified: 2025-08-21
 ### [01:53] Attention Crisis
 [🎧 Play snip - 1min️ (01:42 - 02:23)](https://share.snipd.com/snip/978d0970-b035-4d1c-a856-fe3a352fc68f)
 <audio controls> <source src="https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/traffic.megaphone.fm/GLT1136358780.mp3?updated=1752479706#t=01:42,02:23"> </audio>
-[[Attention Crisis]]
+[[Attention crisis]]
 - Johann Hari's work on mental health profoundly impacted Steven Bartlett. 
 - Hari is now exploring the critical role of attention for happiness and success.
 #### 📚 Transcript

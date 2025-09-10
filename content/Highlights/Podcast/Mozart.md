@@ -23,7 +23,7 @@ Mozart'ın teknolojiye erişim imkanlarının olsaydı, daha fazla eser besteley
 
 
 ## Highlights
-* [[2025-01#23]] 10:40  Biz bugün o çağdaki bütün müzisyenlerin müziğini hep Mozart'a benzeterek Bu barok mu nedir? Barok değil, klasik. Tam klasik. Tam anlamıyla klasik dönem. Barok dönem, klasik dönem, romantik dönem diye biz sıralıyoruz. Hani [[Renaissance]], [[Baroque]], klasik ve romantik diye sıralıyoruz. Tam olarak yılları da söyleyelim. [[1756]]'da doğup [[1791]]'de 35 yaşındayken ölmüş bir besteciden bahsediyoruz
+* [[2025-01#23]] 10:40  Biz bugün o çağdaki bütün müzisyenlerin müziğini hep Mozart'a benzeterek Bu barok mu nedir? Barok değil, klasik. Tam klasik. Tam anlamıyla klasik dönem. Barok dönem, klasik dönem, romantik dönem diye biz sıralıyoruz. Hani [[Wiki/Others/Renaissance]], [[Baroque]], klasik ve romantik diye sıralıyoruz. Tam olarak yılları da söyleyelim. [[1756]]'da doğup [[1791]]'de 35 yaşındayken ölmüş bir besteciden bahsediyoruz
 
 * [[2025-01#20]] 08:47  En büyük şansı ve bizim şansımız eline düştüğü baba Leopold. Evet yani oradan demin sizin sorduğunuz soru da zaten aynı yere bağlanıyordu.
 

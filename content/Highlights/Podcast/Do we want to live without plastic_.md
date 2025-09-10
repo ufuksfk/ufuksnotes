@@ -12,7 +12,7 @@ modified: 2025-08-21
 - Show:: [[The Real Story]]
 - Episode publish date:: [[2023-06-02]]
 - Show notes link:: [open website](http://www.bbc.co.uk/programmes/w3ct4q6q)
-- [[Wiki/Others/Plastic]]
+- [[Plastic]]
 ## Snips
 ### [48:46] Summary of "Do we want to live without plastic?"
 [🎧 Play snip - 48min️ (00:23 - 48:46)](https://share.snipd.com/snip/15d8c1d7-26de-49aa-a89b-b6a8dfcded05)
@@ -25,7 +25,7 @@ modified: 2025-08-21
  - Plastic pollution is a major issue, with 11 million tons dumped into oceans annually, harming marine life and entering human bodies through microplastics .  [[Numbers related to ESG]]
  - Microplastics have been found in lungs, blood, and organs, raising health concerns, including potential links to neurological diseases .
 - **Plastic degradation and chemical properties**  
- - [[Wiki/Others/Plastic|Plastic]] are synthetic, non-biodegradable, and break down into micro and nano plastics with little chemical change .  
+ - [[Plastic|Plastic]] are synthetic, non-biodegradable, and break down into micro and nano plastics with little chemical change .  
  - Additives in plastics can be toxic and are released during degradation, affecting both environment and health .
 - **Global efforts and regulations**  
  - Over 150 countries have some form of plastic regulation, mostly demand-driven, but enforcement varies .  
@@ -121,7 +121,7 @@ modified: 2025-08-21
 [🎧 Play snip - 1min️ (09:47 - 10:40)](https://share.snipd.com/snip/77f41c86-54cc-41e7-8b11-46be31bb6fb4)
 <audio controls> <source src="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0fryfq0.mp3#t=09:47,10:40"> </audio>
 **Plastic Origin**
-- [[Wiki/Others/Plastic]] was created because oil and gas producers had waste material.  [[History of Plastic]]
+- [[Plastic]] was created because oil and gas producers had waste material.  [[History of Plastic]]
 - Chemists developed new materials from this waste, leading to the proliferation of plastics.
 #### 📚 Transcript
 **Speaker 2:**
@@ -275,7 +275,7 @@ modified: 2025-08-21
 [🎧 Play snip - 3min️ (42:57 - 46:02)](https://share.snipd.com/snip/e5efb413-f382-481f-9892-a05479f82a5f)
 <audio controls> <source src="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0fryfq0.mp3#t=42:57,46:02"> </audio>
 **Plastic Recycling Complexity**
-- [[Recycling]] [[Wiki/Others/Plastic]] is complex due to the variety of polymers and added chemicals, unlike glass, which is primarily silicon dioxide. 
+- [[recycling]] [[Plastic]] is complex due to the variety of polymers and added chemicals, unlike glass, which is primarily silicon dioxide. 
 - Recycling often results in downcycling, where the material degrades, emits pollutants, and postpones environmental contamination.
 #### 📚 Transcript
 **Speaker 1:**

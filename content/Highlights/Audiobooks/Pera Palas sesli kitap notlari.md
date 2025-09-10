@@ -9,7 +9,7 @@ link:
 date: 2025-03-05
 modified: 2025-08-21
 ---
-hikayenin kahramani [[Pera Palas Hotel]]
+hikayenin kahramani [[Wiki/Places/Pera Palas Hotel]]
 
 1349 yilinda galata kulesi insa edildi. galata tuccarlari vergi almaya gelenlere top atacak cilgindi.
 

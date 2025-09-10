@@ -13,8 +13,8 @@ modified: 2025-08-21
 * [[Wassily Chair  Knoll]]
 * [[Dadaism]]
 	* https://weimarart.blogspot.com/2010/06/berlin-dada-fair-1920.html
-* [[Tate Modern]]
-* [[Salon des Refuses]]
+* [[Wiki/Art/Tate Modern]]
+* [[Wiki/Art/Salon des Refuses]]
 
 # [[Andy Warhol]]
  [[Andy Warhol]] 6 saattir uyuyan adamın videosunu içeren filmi [[Sleep by Andy Warhol]]
@@ -31,7 +31,7 @@ sanatı her kesime sunabilmiştir.
 [[Louvre Museum]] tarihi bir saray. bir ara yanip yikilmis yeniden yapilmis. Tarih ilerledikce gittikce sanata ayrilan bir yer olmus. Bir yerden sonra sadece sanat muzesi olarak devam etmis. Dunyanin en unlu muzesi
 [[Salvador Dali]], filmler cekmis. [[Un chien andalou]]
 
-[[Metropolitan Museum]]
+[[Wiki/Art/Metropolitan Museum]]
 
 [[Rene Magritte]] [[The lovers]]
 ![](https://uploads3.wikiart.org/images/rene-magritte/the-lovers-1928(1).jpg!Large.jpg)
@@ -85,7 +85,7 @@ patates yiyenler tablosu, eleştirmenler tarafından beğenilmedi.
 [[Mona Lisa]], [[Napoleon]]  yatak odasını süslemiş. [[Louvre Museum]] müzesinden çalınmış. Hırsız italyan, ve italyaya geri vermek istemiş. özel bir cam haznede saklanıyor.
 Resmin gözlerine bakınca daha çok gülüyor.
 
-[[Body art]] Dövmeler. bedeni değiştirmek. kafatası bağlamak. boyun uzatma ve halka takma
+[[Wiki/Art/Body art]] Dövmeler. bedeni değiştirmek. kafatası bağlamak. boyun uzatma ve halka takma
 
 [[Marina Abramovic]] belgradlı performans sanatçısı, balkan baroku
 çıplak, masada aletlerde masnaın önünde oturmuş. millet bunu kesmiş.

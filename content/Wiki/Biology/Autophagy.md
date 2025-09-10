@@ -2,10 +2,10 @@
 description:
 socialDescription:
 title: Autophagy
-draft: true
+draft: false
 tags:
-  - wiki
+  - wiki/biology
 link: https://en.wikipedia.org/wiki/Autophagy
 date: 2025-03-05
-modified: 2025-08-21
+modified: 2025-09-10
 ---

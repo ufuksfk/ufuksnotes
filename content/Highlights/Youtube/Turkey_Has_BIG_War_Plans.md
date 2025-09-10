@@ -20,7 +20,7 @@ And the flood of refugees that arrived there, but because of perennial fears of 
 
 no autonomous kurdish zone! in [[Syria]]
 
-[[Türkiye]] hits kurds in syria, [[usa]] didn’t like that.
+[[Türkiye]] hits kurds in syria, [[USA]] didn’t like that.
 
 5k people stationed in [[Qatar]]
 

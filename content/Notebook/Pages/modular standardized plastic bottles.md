@@ -8,5 +8,5 @@ tags:
 date: 2025-08-07
 modified: 2025-08-21
 ---
-[[Wiki/Others/Plastic]] 
+[[Plastic]] 
 What If all the brands have to use same exact plastics or glass?

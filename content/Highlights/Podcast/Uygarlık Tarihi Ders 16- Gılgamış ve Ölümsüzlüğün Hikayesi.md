@@ -47,9 +47,9 @@ published_date: [[2020-12#22]]
 
 * [[2024-01#07]] 17:56  Bakıma bu kadar muhtaç doğmamızın da başka bir yan etkisi olmuş. Bu muhtaçlık insanı çocuk büyütürken yardımlaşmaya ve sosyal bağlar kurmaya teşvik etmiş, neredeyse zorunlu bırakmış.
 
-* [[2024-01#07]] 17:58  Yaklaşık 70 bin yıl önce gittiğimizde de [[Homo Sapiens]]'in popülasyonu dünyadaki nüfusu olağanüstü azaltan ve evrimde bir darboğaz yaratan bir olayın sonucunda, Toba Yanardağ'ın patlamasının sonucunda çok az Homo Sapiens kalıyor yeryüzünde.
+* [[2024-01#07]] 17:58  Yaklaşık 70 bin yıl önce gittiğimizde de [[homo sapiens]]'in popülasyonu dünyadaki nüfusu olağanüstü azaltan ve evrimde bir darboğaz yaratan bir olayın sonucunda, Toba Yanardağ'ın patlamasının sonucunda çok az Homo Sapiens kalıyor yeryüzünde.
 
-* [[2024-01#07]] 17:59  O daha çok Doğu Asya tarafında yaşıyor ve 2 milyon yıla yakın bir süre hayatta kalıyor. [[Homo Erectus]]'un sonunu ne getirdi bunu bilmiyoruz. Safiyen ise aynı dönemde, aynı yerlerde bulunmamışlar.
+* [[2024-01#07]] 17:59  O daha çok Doğu Asya tarafında yaşıyor ve 2 milyon yıla yakın bir süre hayatta kalıyor. [[Homo erectus]]'un sonunu ne getirdi bunu bilmiyoruz. Safiyen ise aynı dönemde, aynı yerlerde bulunmamışlar.
 
 * [[2024-01#07]] 18:01  Malenezyalılarda ve Aborjinlerde işte [[Australia]] bölgesinde onlarda hiç [[neanderthal]] geni yok ama onlarda da Denisova geni var.
 

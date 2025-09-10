@@ -65,7 +65,7 @@ Doctors must focus on differential diagnosis, as understanding a patient's issue
 ### [33:26] Dopamine, Serotonin, and Sex
 [🎧 Play snip - 1min️ (32:20 - 33:26)](https://share.snipd.com/snip/cbbb24ca-1bfe-4b7e-bdcb-e730ff1993a3)
 <audio controls> <source src="https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/traffic.megaphone.fm/NSR1952355236.mp3?updated=1737993851#t=32:20,33:26"> </audio>
-**[[Dopamine]], [[Serotonin]], and Sex**
+**[[dopamine]], [[Serotonin]], and Sex**
 - Dopamine is associated with pleasure, while serotonin is linked to contentment. 
 - High serotonin levels can decrease sexual desire, explaining reduced sex drive in comfortable relationships.
 #### 📚 Transcript

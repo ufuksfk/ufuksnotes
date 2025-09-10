@@ -100,7 +100,7 @@ Types of jitter
 
 ### [10:22 Instruments used in signal integrity measurements, oscilloscopes, VNAs](https://www.youtube.com/watch?v=anX8QZMhVjI&type=snipo&t=622s)
 
-[[Oscilloscope]] vs [[Network Analyzer]]
+[[Wiki/Technical/Oscilloscope]] vs [[Network Analyzer]]
 
 ![Untitled](Highlights/Youtube/notion-youtube/Untitled%20215.png)
 

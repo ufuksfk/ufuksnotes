@@ -34,7 +34,7 @@ published_date: 2025-05-30
 
 * [[2025-05#31]]  Harari'ye göre böyle iyi ile kötünün iç içe geçtiği karmaşık bir yumak. Anladım. Yani imparatorluklar hem yıktı hem de bir anlamda birleştirdi, ortak bir zeminin oluşmasına katkı sağladı.
 
-* [[2025-05#30]]  Diyor ki, mutluluk belki de sandığımız kadar dış koşullara bağlı değildir, daha çok bizim içsel biyokimyamızla, beynimizdeki [[serotonin]], [[dopamine]] gibi hormonların seviyesiyle ilgili olabilir. Yani genetik bir piyango gibi mi?
+* [[2025-05#30]]  Diyor ki, mutluluk belki de sandığımız kadar dış koşullara bağlı değildir, daha çok bizim içsel biyokimyamızla, beynimizdeki [[Serotonin]], [[dopamine]] gibi hormonların seviyesiyle ilgili olabilir. Yani genetik bir piyango gibi mi?
 
 * [[2025-05#31]]  Orta çağdaki bir köylüyle bugünkü bir ofis çalışanı farklı dertleri olsa da benzer bir mutluluk seviyesine sahip olabilir mi? Harari bunun güçlü bir olasılık olduğunu söylüyor.
 

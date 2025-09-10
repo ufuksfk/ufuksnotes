@@ -11,7 +11,7 @@ modified: 2025-08-21
 ---
 * Yazarin onceki kitaplari ve populer bir youtube kanali var.
 * Diyor ki, az az ve sik araliklarla yemek yemek eskide kaldi. bir kapitalizm icadiydi ve miyadi doldu.
-* Japon bilim adami [[Yoshinori Ohsumi]]  [[Autophagy]] ile [[2016]] nobel alinca, millet oruc olayina dikkat kesildi.
+* Japon bilim adami [[Yoshinori Ohsumi]]  [[Wiki/Others/Autophagy]] ile [[2016]] nobel alinca, millet oruc olayina dikkat kesildi.
 * Biz lisede [[Lysosome]] hucre copcusu diye ogrenmistik. [[1960s]] yillarda kesfedildi.
 * Insanin biyolojik olarak fast feast dongusune uygun bir genetigi var. bulduk mi yedik, ama bulamayinca da vucut kendini onarmayi evrimlestirdi.
 * 3 ogun yeni bir icat.

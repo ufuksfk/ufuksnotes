@@ -105,7 +105,7 @@ Postman proposed seven questions to ask about any new technology, including what
 
 * [[2025-03#11]] 14:38  And all the most important problems are collective action problems.
 
-* [[2025-03#11]] 14:39  Another sort of key concept that Postman is critical of is the[[ Information Action Ratio]]. And I remember this actually in the tech industry that so many people and I used to really believe how many problems really had to do with people just not having access to the appropriate information, which is all about information access.
+* [[2025-03#11]] 14:39  Another sort of key concept that Postman is critical of is the[[Wiki/Others/Information Action Ratio]]. And I remember this actually in the tech industry that so many people and I used to really believe how many problems really had to do with people just not having access to the appropriate information, which is all about information access.
 
 * [[2025-03#11]] 14:39  startup called [[Appshire]] that, but it was a talent acquired by Google that was all about giving people contextual access to more information.
 
@@ -163,7 +163,7 @@ Postman proposed seven questions to ask about any new technology, including what
 
 * [[2025-03#11]] 14:56  [[Science]] is very good at giving us more of what we want. It cannot tell us what's worth wanting in the first place.
 
-* [[2025-03#11]] 14:57  imagine inventing [[Wiki/Others/Plastic]] but actually knowing about forever chemicals and then taking A left turn so we don't go down the road of creating more pollution than we have the capacity to clean up up.
+* [[2025-03#11]] 14:57  imagine inventing [[Plastic]] but actually knowing about forever chemicals and then taking A left turn so we don't go down the road of creating more pollution than we have the capacity to clean up up.
 
 * [[2025-03#11]] 14:57  ==if it's the problem of not being able to generate content at scale, whose problem was that?==
 

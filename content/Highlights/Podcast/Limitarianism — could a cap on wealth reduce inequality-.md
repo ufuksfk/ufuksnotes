@@ -21,7 +21,7 @@ https://www.abc.net.au/listen/programs/futuretense/cap-on-wealth-reduce-inequali
 ### Summary of AI
  The concentration of wealth in the hands of a few is a growing problem that threatens the stability of our society. The [[Patriotic Millionaries]], a group of wealthy individuals, are calling for higher taxes on the rich to address this issue. They argue that the current system is unsustainable and that the rich should pay their fair share.
 
-One solution proposed by Dutch philosopher [[Ingrid Robeyns]] is [[limitarianism]], which involves setting a limit on the amount of wealth an individual can accumulate. Any wealth above that limit would be forfeited to the state. This approach aims to reduce inequality and ensure that the government has sufficient resources to fund public services.
+One solution proposed by Dutch philosopher [[Ingrid Robeyns]] is [[Limitarianism]], which involves setting a limit on the amount of wealth an individual can accumulate. Any wealth above that limit would be forfeited to the state. This approach aims to reduce inequality and ensure that the government has sufficient resources to fund public services.
 
 However, some argue that limitarianism would stifle innovation and discourage entrepreneurship. They believe that high taxes and wealth caps would disincentivize individuals from taking risks and pursuing ambitious projects. They also point out that government-led investments have historically played a significant role in driving innovation.
 

@@ -14,7 +14,7 @@ published_date: [[2024-02#26]]
 
 [[(IoT) Internet of things]] [[Sustainability notes]]
 ## Highlights
-* [[2024-03#11]] 21:03  And so it kind of works out nicely. I focused over a decade of my career in manufacturing, and it worked at the Mitsubishi Silicon America, worked at Freightliner, worked in [[agriculture]], manufacturing, building these big one ton bales and one ton bale machines, lots of automation, lots of robotics in integration of equipment.
+* [[2024-03#11]] 21:03  And so it kind of works out nicely. I focused over a decade of my career in manufacturing, and it worked at the Mitsubishi Silicon America, worked at Freightliner, worked in [[Agriculture]], manufacturing, building these big one ton bales and one ton bale machines, lots of automation, lots of robotics in integration of equipment.
 
 * [[2024-03#11]] 21:23  So that's where they hire someone like me to come in and automate the data collection using electronic interfaces. But those protocols are just so different in every piece of equipment.
 

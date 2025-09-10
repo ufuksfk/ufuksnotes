@@ -15,7 +15,7 @@ last highlighted date: [[2025-03#19]]
 ## Highlights
 - There are many definitions of product management but my favorite, especially considering this is a hardware sub, is from the inventor of the iPod, iPhone and Nest.
   [[Tony Fadell]] states in [Build](https://www.amazon.com/Build-Unorthodox-Guide-Making-Things/dp/0063046067) that:
-- *A [[product manager]]’s responsibility is to figure out what the product should do and then create the spec…*
+- *A [[Product Manager]]’s responsibility is to figure out what the product should do and then create the spec…*
   *They work with almost every part of the business (engineering, design, customer support, finance, sales, marketing, etc.) to get it brought to market…*
   ***But, most importantly, product managers are the voice of the customer. They keep every team in check to make sure they don’t lose sight of the ultimate goal— happy, satisfied customers.***
 - ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fabe961d3-915d-41f9-821a-4037ef66e4ac.heic)

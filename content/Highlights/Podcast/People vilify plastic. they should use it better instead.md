@@ -12,7 +12,7 @@ modified: 2025-08-21
 - Show:: [[The Intelligence from The Economist]]
 - Episode publish date:: [[2025-05-05]]
 - Show notes link:: [open website](https://shows.acast.com/theintelligencepodcast/episodes/people-vilify-plastic-they-should-use-it-better-instead)
-- [[Wiki/Others/Plastic]]
+- [[Plastic]]
 ## Snips
 ### [04:00] Plastic as a Miracle Material
 [🎧 Play snip - 1min️ (03:42 - 04:17)](https://share.snipd.com/snip/65e6cb62-5e06-42bd-9e98-d78c4fd53e73)

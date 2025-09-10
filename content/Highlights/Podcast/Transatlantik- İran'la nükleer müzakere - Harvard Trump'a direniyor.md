@@ -9,7 +9,7 @@ date: 2025-05-18
 modified: 2025-08-21
 ---
 
-publisher: [[Ruşen Çakır]]
+publisher: [[People/Ruşen Çakır]]
 published_date: 2025-04-23
 ...
 ## Highlights

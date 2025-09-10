@@ -19,6 +19,6 @@ In the first article of the two, Karl Meyer proposed extending Robeyns' theorie
 [[Limitarianism The Case Against Extreme Wealth]]
 The second article of the two, written by Timothy J. Nicklas, criticizes Robeyns' views. Nicklas addresses two of Robeyns' claims concerning the benefits of economic limitarianism, specifically that: 1. It is possible to determine a wealth limit which objectively encapsulates "what is needed to have a flourishing life", and 2. That limitarianism would improve the democratic process. Nicklas is not convinced that there could be an over-arching objective economic measure of people's financial needs to assert a 'good life', a criticism already raised earlier by Bluestein. Nicklas also pointed out, that the striving for political power and the abuse thereof shall continue, even if there had been a limit placed on individual wealth.
 
-[[socialism]] and [[communism]]  can be thought of as extreme forms of economic [[limitarianism]].
+[[socialism]] and [[communism]]  can be thought of as extreme forms of economic [[Limitarianism]].
 
-[[Sufficientarianism]] is a school of thought in social justice, economics and philosophy, which strives to determine what are the supposed basic needs that should be allotted to human beings in order to guarantee social equity, or at least equality of opportunity.
+[[sufficientarianism]] is a school of thought in social justice, economics and philosophy, which strives to determine what are the supposed basic needs that should be allotted to human beings in order to guarantee social equity, or at least equality of opportunity.

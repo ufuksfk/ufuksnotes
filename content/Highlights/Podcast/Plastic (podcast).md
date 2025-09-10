@@ -8,7 +8,7 @@ modified: 2025-08-24
 author: [[Patented: History of Inventions]]
 last highlighted date: [[2025-W32#4]] 2025-08-07
 
-[[Wiki/Others/Plastic|Plastic]]
+[[Plastic|Plastic]]
 
 ## Highlights
 - The History of Plastic

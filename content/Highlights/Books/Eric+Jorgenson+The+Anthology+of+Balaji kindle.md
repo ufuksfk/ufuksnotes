@@ -91,7 +91,7 @@ kindle notes of [[The Anthology of Balaji]]
 - Bad memes and crazy ideas spread faster than ever, because all our brains are connected. (Location 1386)
 - Popularity can be measured by likes. Truth can’t be. (Location 1395)
 - Status is a zero-sum game. Wealth creation isn’t. (Location 1396)
-- The era of centralized technology had mass production and mass media. The political ideologies enabled by those technologies were [[Communism]], Nazism, and Democratic [[Capitalism]]. For the past hundred years, they slugged it out. (Location 1408)
+- The era of centralized technology had mass production and mass media. The political ideologies enabled by those technologies were [[communism]], Nazism, and Democratic [[Capitalism]]. For the past hundred years, they slugged it out. (Location 1408)
 - With crypto, we have something similar to the printing press. (Location 1419)
 - We are moving from mainstream media through social media to our destination: decentralized media; that is, decentralized reporting, sourcing, hosting, distribution, payments, bounties, predictions, reputation, verification, consensus, and truth. (Location 1420)
 - A shared issue for legacy media and social media is that their content is not open source. Since the content is proprietary, restricted by copyright and API access, the public can’t create its own arbitrary views of the data. What’s the alternative? Decentralized media. (Location 1427)

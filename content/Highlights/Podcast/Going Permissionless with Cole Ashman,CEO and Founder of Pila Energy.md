@@ -6,12 +6,13 @@ title: Going Permissionless with Cole Ashman,CEO and Founder of Pila Energy
 tags:
 - highlight/podcasts
 date: 2025-08-04
-modified: 2025-08-21
+modified: 2025-09-09
 ---
 ## Episode metadata
 - Show:: [[DER Task Force]]
 - Episode publish date:: [[2025-07-02]]
 - Show notes link:: [open website](https://www.dertaskforce.com/p/going-permissionless-with-cole-ashmanceo)
+- [[Pila Energy]]
 ## Snips
 ### [03:34] Permissionless Bluetti
 [🎧 Play snip - 2min️ (01:10 - 03:38)](https://share.snipd.com/snip/84bfe02b-d5af-4633-be2f-08e58ea55079)

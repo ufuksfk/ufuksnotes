@@ -13,15 +13,15 @@ Technology came from amalgamation of two Greek words, tekne and logy
 
 Technology in this book is not motorcar, MRI scanner, or fighter jet. It is [[social media]].
 
-And [[democracy]] means[[ liberal democracy]], especially in west
+And [[Democracy]] means[[ liberal democracy]], especially in west
 
-[[democracy]] is a product of nation states, while [[social media]] is decentralised, data driven, and non geographical
+[[Democracy]] is a product of nation states, while [[social media]] is decentralised, data driven, and non geographical
 
 Book 1996, declaration of the independence of cyber space
 
 there are six escapers of the modern democracy, citizens, a shared culture, free elections, stakeholder equality, which means sizable, middle-class, competitive economy, civic, freedom and trusting authorities
 
-writer, think [[democracy]] will fail with dystopia
+writer, think [[Democracy]] will fail with dystopia
 
 we are gonna have a new government by smart machines and new elite of authoritarian technocrats, and the worst part is lots of people prefer that
 
@@ -136,7 +136,7 @@ I got it from library today :) [[2025-03#14]] Now, this time I will surely finis
 ### [[universal basic income]]
 in 2017, author did a interview with [[Sam Altman]]
 That basic concept has been tried at some places like [[Finland]]
-For political right, it is an instrument to keep [[capitalism]] ticking. For political left, it is redistribution of wealth.
+For political right, it is an instrument to keep [[Capitalism]] ticking. For political left, it is redistribution of wealth.
 
 [[USA]] spending on social welfare is 2300$ per capita. Which is surely not enough.
 [[Sam Altman]] believes as technology progress, productivity will boost and it will decrease prices down. Which makes [[universal basic income]] idea easily applicable.
@@ -159,7 +159,7 @@ What about [[blockchain]]. it seems decentralized but let's see. If small number
 Biggest dream of startups is getting acquired by big tech companies!
 [[(IoT) Internet of things]] market still doesn't have any [[Wiki/Others/Monopoly]] [[Siemens]] was trying.
 [[Why IoT market doesn't have monopol system]] there is still winners take all race for that market!
-Once they have valid and monopol connected devices, it will be way harder to keep [[democracy]] alive
+Once they have valid and monopol connected devices, it will be way harder to keep [[Democracy]] alive
 [[Big tech companies]] will bee too big to fail. Maybe they already are.
 > But when this book written, he count Intel as very big monopol! Now, things changed!
 

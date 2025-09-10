@@ -11,7 +11,7 @@ modified: 2025-08-23
 publisher: [[Sustainable Futures]]
 published_date: [[2024-11#29]]
 
-[[Wiki/Others/Plastic]]
+[[Plastic]]
 [[notpla]]
 # Note
  Notpla is a sustainable packaging company based in London that uses seaweed to create biodegradable packaging solutions as an alternative to plastic.

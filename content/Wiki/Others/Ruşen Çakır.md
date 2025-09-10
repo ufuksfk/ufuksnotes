@@ -4,8 +4,8 @@ socialDescription:
 title: Ruşen Çakır
 draft: true
 tags:
-  - wiki/person
+  - person/journalist
 link:
 date: 2025-03-05
-modified: 2025-08-21
+modified: 2025-09-10
 ---

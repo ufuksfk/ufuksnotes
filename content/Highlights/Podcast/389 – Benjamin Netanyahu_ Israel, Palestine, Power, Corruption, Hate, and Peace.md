@@ -22,7 +22,7 @@ modified: 2025-08-21
 [🎧 Play snip - 1min️ (10:36 - 11:14)](https://share.snipd.com/snip/79ae2ba3-a745-43a1-ba5e-1ca7dd07b382)
 <audio controls> <source src="https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_benjamin_netanyahu.mp3#t=10:36,11:14"> </audio>
 #### ✨ Summary
-They are guided by ignorance and unaware of Israel's advancements in various fields. Israel is a democratic and highly advanced society that contributes to humanity in medicine, [[agriculture]], environment, and telecoms. It has also sent the highest number of rescue teams globally, despite being only one tenth of one percent of the world's population.
+They are guided by ignorance and unaware of Israel's advancements in various fields. Israel is a democratic and highly advanced society that contributes to humanity in medicine, [[Agriculture]], environment, and telecoms. It has also sent the highest number of rescue teams globally, despite being only one tenth of one percent of the world's population.
 #### 📚 Transcript
 **Benjamin Netanyahu:**
 > Israel is a stellar democracy, that it happens to be one of the most advanced societies on the planet, that what Israel develops helps humanity and every field and medicine and agriculture And the environment and telecoms. And talk about AI in a minute, but changing the world for the better and spreading this among six continents. We've sent rescue teams more than any other country in the world, and we're one-tenth of one percent of the world's population. But

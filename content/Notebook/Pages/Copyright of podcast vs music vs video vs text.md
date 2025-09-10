@@ -11,4 +11,4 @@ modified: 2025-09-08
 [[Copyright]] of a different contents.
 [[why we have all songs at spotify but not all movies at netflix]]
 
-for [[podcast]] : https://www.riaa.com/resources-learning/questions-about-podcasts/
+for [[Highlights/Podcast]] : https://www.riaa.com/resources-learning/questions-about-podcasts/

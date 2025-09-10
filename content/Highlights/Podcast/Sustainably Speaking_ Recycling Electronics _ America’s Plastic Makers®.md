@@ -34,7 +34,7 @@ modified: 2025-08-21
 [🎧 Play snip - 1min️ (09:48 - 10:42)](https://share.snipd.com/snip/585e62a2-0538-46cb-a3b6-e8e65aa77311)
 <audio controls> <source src="https://cdn.simplecast.com/audio/67743442-0d06-43f1-b366-dc6d7f981bde/episodes/0d78f213-f819-48cf-aef1-61f4bdea6c52/audio/79b0ec85-c6b3-4740-8cfd-e832d318bbdb/default_tc.mp3?aid=rss_feed&feed=H_k2EB_N#t=09:48,10:42"> </audio>
 **Electronics Plastic Content**
-- [[Wiki/Others/Plastic]] make up about 35% of electronic waste by weight. [[Numbers related to ESG]]
+- [[Plastic]] make up about 35% of electronic waste by weight. [[Numbers related to ESG]]
 - It's crucial to ensure this e-waste ends up in the right recycling streams.
 #### 📚 Transcript
 **Mia Quinn:**

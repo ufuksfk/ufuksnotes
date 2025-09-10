@@ -29,7 +29,7 @@ muhtemelen baslangicta buyu vardi.
 
 [18:33](https://www.youtube.com/watch?v=BZCCNdPT-Ck&t=1114s&type=snipo)  kendileri magaraya girdikce kafa olmuslar, sonra biri uyarmis demis bu kafa cektikce ceker cikalim.
 
-[19:48](https://www.youtube.com/watch?v=BZCCNdPT-Ck&t=1189s&type=snipo)  insan kendi ic sesini duyunca [[God]] zannediyor ilyadada. ic sesi farkedemediler.
+[19:48](https://www.youtube.com/watch?v=BZCCNdPT-Ck&t=1189s&type=snipo)  insan kendi ic sesini duyunca [[Wiki/Others/God]] zannediyor ilyadada. ic sesi farkedemediler.
 
 [23:08](https://www.youtube.com/watch?v=BZCCNdPT-Ck&t=1389s&type=snipo)  kutsal seni cocukluguna ya da bir zamana göturur. mesela kutsal zamanlar
 

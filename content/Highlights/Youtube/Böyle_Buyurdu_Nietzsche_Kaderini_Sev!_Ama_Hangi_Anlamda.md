@@ -15,6 +15,6 @@ https://www.youtube.com/watch?v=MXC0_atXgNM&type=snipo
 [[Friedrich Nietzche]]
 Created time: [[2023-09#12]]
 
-[[amor fati]], stoacilikta da olan bir kavram. [[Stoicism]]
+[[Amor fati]], stoacilikta da olan bir kavram. [[Stoicism]]
 
 ayrildigim fikirlerden biri de amaclilik.

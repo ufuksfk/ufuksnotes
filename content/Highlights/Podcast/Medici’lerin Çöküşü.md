@@ -14,7 +14,7 @@ published_date: [[2024-05#29]]
 [[House of Medici]]
 
 ## Highlights
-* [[2024-06#13]] 22:26  Hem bankalarının başarısıyla hem de kilisenin desteğiyle siyasette güçlü bir yer edindiler ve varlıklarını aynı zamanda sanat, felsefe, tiyatro, edebiyat gibi alanların gelişmesi için de kullandılar. Siyasi stratejileri, Giorgio Vasari ve [[Michelangelo]] gibi büyük sanatçıları hamilik yapmaları sayesinde günümüze kadar gelen miraslarının temelini attılar ve İtalyan [[Renaissance]]'nı çok büyük ölçüde etkilediler.
+* [[2024-06#13]] 22:26  Hem bankalarının başarısıyla hem de kilisenin desteğiyle siyasette güçlü bir yer edindiler ve varlıklarını aynı zamanda sanat, felsefe, tiyatro, edebiyat gibi alanların gelişmesi için de kullandılar. Siyasi stratejileri, Giorgio Vasari ve [[Michelangelo]] gibi büyük sanatçıları hamilik yapmaları sayesinde günümüze kadar gelen miraslarının temelini attılar ve İtalyan [[Wiki/Others/Renaissance]]'nı çok büyük ölçüde etkilediler.
 
 * [[2024-06#13]] 22:26  O dönemlerde Florence adı bir kişi servetini devlet ile paylaşmadan zengin olamıyordu çünkü.
 

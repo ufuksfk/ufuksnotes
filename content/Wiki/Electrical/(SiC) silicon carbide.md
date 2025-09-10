@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 description:
 socialDescription:
 title: (SiC) silicon carbide
@@ -7,5 +7,5 @@ tags:
   - wiki/electrical
   - wiki/material
 date: 2025-03-13
-modified: 2025-08-21
+modified: 2025-09-10
 ---

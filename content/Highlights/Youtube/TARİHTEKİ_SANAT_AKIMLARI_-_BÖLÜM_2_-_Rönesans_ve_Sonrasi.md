@@ -15,7 +15,7 @@ author: [[Ece Gürler Art Türkiye]]
 video_duration: 00:28:36
 Created time: [[2023-10#05]]
 
-[[Renaissance]] sebepleri
+[[Wiki/Others/Renaissance]] sebepleri
 
 gutenberg matbaayi bulunca insanlar daha cok okuyor, daha cok incil okuyor. insanlar okudukca aydinlanma geliyor.
 

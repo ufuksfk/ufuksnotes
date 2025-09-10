@@ -17,7 +17,7 @@ last highlighted date: [[2025-01#27]]
 - • How much data do you expect to store when the application is mature?
   • How many users do you expect to handle simultaneously at peak load?
   • What [****availability****](https://www.geeksforgeeks.org/availability-in-system-design/), [****scalability****](https://www.geeksforgeeks.org/what-is-scalability-and-how-to-achieve-it-learn-system-design/), [****latency****](https://www.geeksforgeeks.org/what-is-latency/), ****throughput****, and ****data consistency**** does your application need?
-  • How often will your [****database schemas****](https://www.geeksforgeeks.org/database-schemas/) change? [[Database schema]]
+  • How often will your [****database schemas****](https://www.geeksforgeeks.org/database-schemas/) change? [[Wiki/Others/Database schema]]
   • What is the geographic distribution of your user population?
   • What is the natural “shape” of your data?
   • Does your application need [****online transaction processing (OLTP)****](https://www.geeksforgeeks.org/on-line-transaction-processing-oltp-system-in-dbms/), [****analytic queries (OLAP)****](https://www.geeksforgeeks.org/olap-operations-in-dbms/), or both?

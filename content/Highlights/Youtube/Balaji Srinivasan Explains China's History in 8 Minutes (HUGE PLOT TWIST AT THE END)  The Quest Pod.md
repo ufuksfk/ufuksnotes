@@ -34,7 +34,7 @@ mid [[1970s]] machination.
 he realised he couldn’t change whole country.
 
 [5:24](https://www.youtube.com/watch?v=JzLEijoskKg&t=325s&type=snipo)
-I have and i've observed that [[hong kong]] is working that taiwan is working unfortunately because you know for them [[taiwan]] had basically grown to almost the gdp of mainland [[china]] at the time simply by practicing [[capitalism]] and singapore is working and so he had meetings with lee kuan yew of singapore um and um basically used his political capital to uh allow for a special economic zone across the causeway from hong kong one zone literally fenced off 
+I have and i've observed that [[hong kong]] is working that taiwan is working unfortunately because you know for them [[Taiwan]] had basically grown to almost the gdp of mainland [[China]] at the time simply by practicing [[Capitalism]] and singapore is working and so he had meetings with lee kuan yew of singapore um and um basically used his political capital to uh allow for a special economic zone across the causeway from hong kong one zone literally fenced off 
 
 ### [5:43 Special Economic Zones](https://www.youtube.com/watch?v=JzLEijoskKg&type=snipo&t=343s)
 

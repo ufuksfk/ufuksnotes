@@ -13,7 +13,7 @@ modified: 2025-08-21
 last highlighted date: [[2023-10#22]]
 
 ## Highlights
-- PEAK [[TESTOSTERONE]] FOOD SHOPPING LIST 🛒
+- PEAK [[testosterone]] FOOD SHOPPING LIST 🛒
   Eggs
   Steak
   Garlic

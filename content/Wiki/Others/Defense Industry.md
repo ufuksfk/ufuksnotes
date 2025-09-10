@@ -1,10 +1,10 @@
 ---
-draft: true
+draft: false
 description:
 socialDescription:
 title: Defense Industry
 tags:
-  - wiki
+  - wiki/business
 date: 2025-03-11
-modified: 2025-08-21
+modified: 2025-09-09
 ---

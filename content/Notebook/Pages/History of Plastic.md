@@ -11,4 +11,4 @@ modified: 2025-08-21
 ---
 Good sides of it, when it became an evil..
 
-[[Wiki/Others/Plastic]]
+[[Plastic]]

@@ -34,7 +34,7 @@ https://www.instagram.com/p/DH0wqCeS7s8/
 ![[Pasted image 20250510180332.png]]
 
 ## Dividing world gold
-If all the [[gold]] in the world were split evenly, each person would get just 30 grams—about six gold rings! 💍⁠  
+If all the [[Gold]] in the world were split evenly, each person would get just 30 grams—about six gold rings! 💍⁠  
 Central banks, on the other hand, hold much more, with the U.S. alone storing roughly 8,000 tonnes in reserves.⁠  
 Here, we visualize the hypothetical equal division of all discovered gold in the world, based on the U.S. Geological Survey and the UN’s World Population Prospects [[2024]].⁠
 ![[Pasted image 20250510180425.png]]
@@ -78,7 +78,7 @@ Meanwhile, companies like [[Paramount Picture]] and [[Warner Bros]]. Discovery a
 Here’s a comparison of net profit margins for six major media companies in the entertainment industry.⁠
 ![[Pasted image 20250510181300.png]]
 
-## Labor rights in [[europe]]
+## Labor rights in [[Europe]]
 ![[Pasted image 20250510181439.png]]
 
 ## [[(EU) European Union]] immigrations from [[2023]]
@@ -135,7 +135,7 @@ What the Netherlands Would Look Like Without Dikes
 ## economy of [[BRICS]]
 ![[Pasted image 20250510182948.png]]
 
-## border between [[china]] and [[India]]
+## border between [[China]] and [[India]]
 ![[Pasted image 20250510183310.png]]
 
 ## Presidental election of [[USA]] [[1984]]

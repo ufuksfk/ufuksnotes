@@ -36,7 +36,7 @@ published_date: [[2024-01#18]]
 
 * [[2024-01#18]] 17:46  Yani sanki adeta vakti zamanında bu şifacı kadınlar kadınlara aslında geleneksel doğum kontrol yöntemlerini öğretiyorlarmış da bu çeşitli otoriteleri rahatsız etmiş gibi.
 
-* [[2024-01#18]] 17:47  Yani bir yandan [[Renaissance]], reform hareketlere süre giderken ve birileri aklın ne kadar önemli olduğunu, insanın merkezde olması gerektiğini söylerken bir yandan devletler, çeşitli otoriteler histerik bir şekilde insanları günah keçisi üretmeye yönlendiriyorlar.
+* [[2024-01#18]] 17:47  Yani bir yandan [[Wiki/Others/Renaissance]], reform hareketlere süre giderken ve birileri aklın ne kadar önemli olduğunu, insanın merkezde olması gerektiğini söylerken bir yandan devletler, çeşitli otoriteler histerik bir şekilde insanları günah keçisi üretmeye yönlendiriyorlar.
 
 * [[2024-01#18]] 17:50  Kaldı ki büyücüyü ve şifacıyı yaratan da aynı toplum. Tabii aynı toplum. Bazı teorilere göre, biraz daha Marxist bakan teorilere göre bu kadınlar esasen yoksullara yardım ediyorlardı.
 

@@ -1,12 +1,12 @@
 ---
-draft: true
+draft: false
 description:
 socialDescription:
 title: Anthropology of Technology
 tags:
   - wiki
 date: 2025-08-01
-modified: 2025-08-21
+modified: 2025-09-10
 ---
 https://en.wikipedia.org/wiki/Anthropology_of_technology
 [[technology]]

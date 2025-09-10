@@ -14,7 +14,7 @@ published_date: [[2023-09#08]]
 # Note
  * [[People/Alfred Adler]]'s individual psychology theory is based on the will to power, where individuals strive to overcome feelings of inferiority and become their true selves.
 
-* Birth order and family dynamics play a significant role in shaping personality traits and behaviors, with each child developing a "ticket to admission" within the family. [[Wiki/Others/Birth order theory]]
+* Birth order and family dynamics play a significant role in shaping personality traits and behaviors, with each child developing a "ticket to admission" within the family. [[Birth order theory]]
 
 * Childhood experiences are important in Adlerian therapy, as it focuses on how past events are currently interpreted and manifested in behaviors, aiming to uncover and address underlying issues for personal growth and self-actualization.
 

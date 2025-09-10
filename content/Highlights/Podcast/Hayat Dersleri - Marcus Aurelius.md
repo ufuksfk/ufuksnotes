@@ -14,7 +14,7 @@ published_date: [[2024-01#13]]
 
 [[Marcus Aurelius]] [[Stoicism]]
 ## Highlights
-* [[2024-01#15]] 20:35  Filozof, Stoğacı düşüncenin en tanınmış eserlerinden biri, onun kaleme almış olduğu Kendime Düşünceler eseri. Eminim aranızda okuyanlar vardır. Tam bir başucu kitabıdır. Marcus Aurelius'un düşünce yapısı, tavsiyeleri [[Renaissance]]'a temel olmuştur ve Stoğa felsefesinin anlaşılması açısından günümüzde de çok değerli bir eserdir.
+* [[2024-01#15]] 20:35  Filozof, Stoğacı düşüncenin en tanınmış eserlerinden biri, onun kaleme almış olduğu Kendime Düşünceler eseri. Eminim aranızda okuyanlar vardır. Tam bir başucu kitabıdır. Marcus Aurelius'un düşünce yapısı, tavsiyeleri [[Wiki/Others/Renaissance]]'a temel olmuştur ve Stoğa felsefesinin anlaşılması açısından günümüzde de çok değerli bir eserdir.
 
 * [[2024-01#15]] 22:22  Şöyle ki bir zamanlar Kıbrıslı Zenon adında çok zengin bir tüccar var. Kral kaftanlarını süsleyen en zor bulunan renk olan Kraliyet Muru'nun ticaretini yapıyor Kıbrıslı Zenon. Milattan önce 4. yüzyılda Atina'da geçirdiği bir gemi kazası sonucunda bütün mal varlığını kaybediyor. Her şey denizin dibine batıyor. Fenike'den gemiye bindiği zaman çok zengin bir tüccar Zenon ama Atina'ya karaya çıktığı zaman artık hiçbir şeyi olmayan bir adam her şeyini kaybetmiş derken Bu başına gelenler hakkında çok düşünüyor. Adeta hayatı sorguluyor
 

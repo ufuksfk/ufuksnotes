@@ -59,7 +59,7 @@ Burada tabi [[Yuval Noah Harari]] reis'e saygı duyuyorum fakat [[Immanuel Tolst
 [[Democracy]]
 * Roma, çok büyüktü. Demokrasi için elindeki teknolojiyle tartışma ortamı kurabileceğin kadar büyük olabilirsin. Roma devrinde öyle birşey yoktu.
 * Demokrasi belki bugün bile küçük devletlerin veya toplulukların daha kolay uygulayabileceği birşeydir.
-* [[China]] [[200 - 299 BC]] hanedanlığı ve yasaları otoriterliğe güzel bir örnek. [[Han dynasty of China]]
+* [[China]] [[200 - 299 BC]] hanedanlığı ve yasaları otoriterliğe güzel bir örnek. [[Wiki/Others/Han dynasty of China]]
 * [[Soviet Union]] da [[Lysenkoism]] bırakabilip [[Darwinism]] ile tarımı yönetselerdi böyle olmazdı. Koskoca rusya, tarımda dışa bağımlı oldu.
 * [[Joseph Stalin]] ölmeden önce bayılınca kimse korkusundan doktor çağıramadı. Uyanır da ayağa kalkarsa bizi idam eder diye. Öyle de öldü.
 

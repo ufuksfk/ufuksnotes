@@ -13,7 +13,7 @@ published_date: [[2024-12#09]]
 
 # Note
  The Supermarket played a crucial role in America's victory in the Cold War by showcasing abundance and capitalism through affordable food options.
-US Government investments in [[agriculture]] led to increased productivity, surplus production, and the rise of industrial farming, impacting small farmers and food quality.
+US Government investments in [[Agriculture]] led to increased productivity, surplus production, and the rise of industrial farming, impacting small farmers and food quality.
 The focus on productivity and financial incentives in agriculture resulted in standardization, less variety, and health consequences like the use of high fructose corn syrup.
 The current agricultural paradigm may need to shift towards sustainability and environmental friendliness to address issues like pollution, degraded animal welfare, and health concerns.
 

@@ -31,7 +31,7 @@ mö 9 - 4. yy neredeyse 500 yil suren bu donemde evler buyumus, hane basi mallar
 
 mö5.yy itibaren roma cumhuriyetinde de refah artmisti. roma imp 1. yy’a kadar surdu, siyasi istikrarsizlik 
 
-italyan bilgin francesco petrarka, bati roma mö 476da yikilmasindan sonraki caga karanlik ve kasvetli demis, boyle boyle bu doneme karanlik cag demisiz. geleneksel kabule gore bu donemde teknoloji dahil hicbbir degisme olmamistir. taa ki 1300e [[Renaissance]] dönemine kadar.
+italyan bilgin francesco petrarka, bati roma mö 476da yikilmasindan sonraki caga karanlik ve kasvetli demis, boyle boyle bu doneme karanlik cag demisiz. geleneksel kabule gore bu donemde teknoloji dahil hicbbir degisme olmamistir. taa ki 1300e [[Wiki/Others/Renaissance]] dönemine kadar.
 tarlalarda nobetlese durmak
 hayvanlari beslemek ve nitrojen icin baklagil kullanimi
 6 veya 8 okuzun cektigi buyuk tekerli sabanlar

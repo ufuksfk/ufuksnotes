@@ -13,7 +13,7 @@ publisher: [[The Climate Question]]
 published_date: 2024-12-16
 ...
 
-[[Wiki/Others/Plastic]] and [[Climate Crisis]]
+[[Plastic]] and [[Climate Crisis]]
 # Note
  I recently found plastic buried in my garden, prompting me to explore plastic's climate impact. The recent failure of a UN treaty to limit plastic pollution highlights this often-overlooked connection.
 

@@ -9,4 +9,4 @@ date: 2025-08-07
 modified: 2025-08-21
 ---
 What If we forced people to just buy a bottle, and give beverage for free If they came with empty bottle. I need to know the cost of comparison of bottle and interior and logistic.
-[[glass]]
+[[Glass]]

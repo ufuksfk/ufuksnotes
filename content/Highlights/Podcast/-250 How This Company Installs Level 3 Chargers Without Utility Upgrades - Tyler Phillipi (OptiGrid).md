@@ -6,13 +6,14 @@ title: -250 How This Company Installs Level 3 Chargers Without Utility Upgrades 
 tags:
   - highlight/podcasts
 date: 2025-08-04
-modified: 2025-08-21
+modified: 2025-09-09
 ---
 
-publisher: [[CleanTechies Podcast]]
+publisher: [[CleanTechies]]
 published_date: 2025-07-02
 ...
 
+[[Optigrid Energy]]
 ## Highlights
 * [[2025-07]]  We're speaking with Tyler Philippi, the CEO of OptiGrid. They make a 3 foot by 3 foot unit that has a battery and DC fast charger integrated into one stack which allows anyone who has electric vehicle customers, commercial or consumer, to meet charging demand. Traditionally, installing Level 3 chargers, aka fast chargers, means you need utility upgrades which can take in some cases years.
 

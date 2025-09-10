@@ -23,7 +23,7 @@ modified: 2025-08-21
 6. The Vespers project explores the concept of death masks tailored to the geometric features of a person's face after death, aiming to create unique and distinct masks.
 7. Delicate and intriguing fractal patterns intentionally incorporate imperfections to create an illusion of symmetry. The distribution of non-material matter within these patterns adds to their complexity.
 8. Humans can potentially communicate with nature, evidenced by the distress signal of freshly cut grass, which is a communication between leaves.
-9. Precision [[agriculture]] will change as we connect with plants on a molecular level, understanding their distress signals and predicting issues accurately.
+9. Precision [[Agriculture]] will change as we connect with plants on a molecular level, understanding their distress signals and predicting issues accurately.
 10. Accessing the additional dimension of surface area can be used for good or bad, allowing for connection, communication, and collaboration.
 11. It is important to pause and feel gratitude for being alive, appreciating life, and being part of a community. Fire, as the first technology, built communities and fostered human connection.
 ## Snips

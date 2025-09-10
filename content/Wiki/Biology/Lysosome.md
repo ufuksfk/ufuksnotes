@@ -2,10 +2,12 @@
 description:
 socialDescription:
 title: Lysosome
-draft: true
-tags: 
-link: https://en.wikipedia.org/wiki/Lysosome
+draft: false
+tags:
+  - wiki/biology
+link:
 date: 2025-03-05
-modified: 2025-08-21
+modified: 2025-09-10
 ---
 Kind of garbage collector of animal cell.
+https://en.wikipedia.org/wiki/Lysosome

@@ -19,4 +19,4 @@ last highlighted date: [[2024-03#11]]
 - A custom CPU board will need a high layer count with high-density traces and possibly blind or buried vias. Components like the CPU, RAM and Flash are often relatively expensive in low volume. CPU module manufacturers leverage their huge volume to make all these things relatively economical.
 - In the medical device space it’s now becoming common to use CPU modules. In this space the volumes are typically lower and the margins higher than consumer goods
 - Having said that, NEC is even using the Raspberry Pi Compute Module in a many of their commercial grade, large format displays
-    - Tags: [[raspberry]] 
+    - Tags: [[Raspberry]] 

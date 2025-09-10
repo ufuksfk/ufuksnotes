@@ -24,7 +24,7 @@ published_date: 2025-05-20
 
 * [[2025-05#21]]  bunun üzerine 1700'lerde başlayan sanayi devriminin artışıyla beraber inanılmaz bir uçuruma döndü.
 
-* [[2025-05#21]]  Çünkü Osmanlı Devleti özellikle [[Wiki/Others/Industrial Revolution|Industrial Revolution]] birlikte Avrupa'yı hiç takip edemez olmuş. Avrupa ordularının talimleriyle Yeniçeri ordularının talimleri arasında büyük farklılıklar oluşmaya başlamış.
+* [[2025-05#21]]  Çünkü Osmanlı Devleti özellikle [[Industrial Revolution|Industrial Revolution]] birlikte Avrupa'yı hiç takip edemez olmuş. Avrupa ordularının talimleriyle Yeniçeri ordularının talimleri arasında büyük farklılıklar oluşmaya başlamış.
 
 * [[2025-05#21]]  O durağan elden Osmanlı devleti dönüşememiştir. Dönüşebilen devletler ise Avrupalı devletler olmuştur ve Avrupa ileri gitmiş, Osmanlı da maalesef geri kalmıştır diyorum.
 

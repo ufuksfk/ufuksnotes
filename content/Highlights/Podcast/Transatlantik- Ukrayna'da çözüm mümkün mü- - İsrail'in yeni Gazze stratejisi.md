@@ -7,7 +7,7 @@ date: 2025-08-28
 modified: 2025-08-28
 ---
 
-publisher: [[Ruşen Çakır]]
+publisher: [[People/Ruşen Çakır]]
 published_date: 2025-08-21
 ...
 [[Ukraine]] [[Gaza]]
